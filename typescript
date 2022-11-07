@@ -1,0 +1,2863 @@
+Script started on Thu Nov  3 16:00:59 2022
+[1m[7m%[27m[1m[0m                                                                                                                                                                                          [0m[27m[24m[Jconnorsanders@Connors-MacBook-Pro-2 Networks Project % [K[?2004h../a.out[?2004l
+Sending package 0: 0_3688,To be, or not to be, that is the question:
+Sending package 1: 1_3816,Whether 'tis nobler in the mind to suffer
+Sending package 2: 2_4254,The slings and arrows of outrageous fortune,
+Sending package 3: 3_3788,Or to take arms against a sea of troubles
+Sending package 4: 4_3437,And by opposing end them. To die—to sleep,
+Sending package 5: 5_3232,No more; and by a sleep to say we end
+Sending package 6: 6_4377,The heart-ache and the thousand natural shocks
+Sending package 7: 7_3875,That flesh is heir to: 'tis a consummation
+Sending package 8: 8_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 9: 9_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 10_43[?2004l
+Enter Damage Probability.2
+Enter Loss Probability.2
+enter command: Getting TestFile
+Packet 0 is corrupted
+Packet 3 is corrupted
+Packet 4 is Missing!
+Packet 5 is Missing!
+Packet 6 is corrupted
+Packet 8 is corrupted
+Packet 15 is corrupted
+Packet 16 is corrupted
+Packet 21 is Missing!
+Packet 24 is corrupted
+Packet 27 is Missing!
+Packet 36 is Missing!
+Packet 44 is Missing!
+Packet 49 is corrupted
+Packet 55 is Missing!
+Packet 56 is Missing!
+Packet 59 is corrupted
+Packet 60 is corrupted
+Packet 63 is corrupted
+Packet 64 is corrupted
+Packet 65 is Missing!
+Packet 66 is Missing!
+Packet 67 is Missing!
+Packet 69 is corrupted
+Packet 76 is Missing!
+Packet 77 is Missing!
+Packet 79 is Missing!
+Packet 82 is Missing!
+Packet 87 is Missing!
+Packet 88 is Missing!
+Packet 94 is Missing!
+Packet 95 is Missing!
+Packet 97 is Missing!
+Packet 101 is Missing!
+Packet 109 is corrupted
+Packet 111 is corrupted
+Packet 117 is Missing!
+Packet 119 is Missing!
+Packet 121 is corrupted
+Packet 128 is corrupted
+Packet 131 is corrupted
+Packet 136 is corrupted
+Packet 139 is Missing!
+Packet 142 is Missing!
+Packet 144 is corrupted
+Packet 145 is corrupted
+Packet 147 is Missing!
+Packet 153 is Missing!
+Packet 160 is Missing!
+Packet 161 is corrupted
+Packet 163 is Missing!
+Packet 166 is Missing!
+Packet 169 is corrupted
+Packet 175 is Missing!
+Packet 178 is Missing!
+Packet 185 is Missing!
+Packet 187 is Missing!
+Packet 190 is corrupted
+Packet 192 is Missing!
+Packet 194 is Missing!
+Packet 195 is Missing!
+Packet 205 is corrupted
+Packet 208 is corrupted
+Packet 211 is Missing!
+Packet 214 is corrupted
+Packet 218 is Missing!
+Packet 225 is corrupted
+Packet 226 is corrupted
+Packet 229 is Missing!
+Packet 230 is Missing!
+Packet 231 is corrupted
+Packet 235 is Missing!
+Packet 238 is corrupted
+Packet 240 is Missing!
+Packet 242 is Missing!
+Packet 243 is Missing!
+Packet 244 is Missing!
+Packet 247 is Missing!
+Packet 250 is Missing!
+Packet 256 is Missing!
+Packet 258 is corrupted
+Packet 259 is Missing!
+Packet 263 is Missing!
+Packet 264 is Missing!
+Packet 266 is Missing!
+Packet 270 is corrupted
+Packet 275 is corrupted
+Packet 278 is Missing!
+Packet 280 is Missing!
+Packet 282 is corrupted
+Packet 288 is corrupted
+Packet 302 is Missing!
+Packet 304 is corrupted
+Packet 305 is Missing!
+Packet 307 is Missing!
+Packet 314 is Missing!
+Packet 315 is Missing!
+Packet 317 is corrupted
+Packet 319 is Missing!
+Packet 322 is corrupted
+Packet 330 is corrupted
+Packet 334 is Missing!
+Packet 335 is corrupted
+Packet 336 is Missing!
+Packet 338 is corrupted
+Packet 339 is corrupted
+Packet 342 is corrupted
+Packet 343 is Missing!
+Packet 344 is Missing!
+Packet 345 is corrupted
+Packet 346 is corrupted
+Packet 348 is Missing!
+Packet 350 is Missing!
+Packet 351 is Missing!
+Packet 353 is Missing!
+Packet 357 is corrupted
+Packet 359 is corrupted
+Packet 362 is corrupted
+Packet 364 is Missing!
+Packet 370 is corrupted
+Packet 375 is corrupted
+Packet 376 is corrupted
+Packet 377 is Missing!
+Packet 383 is Missing!
+Packet 384 is corrupted
+Packet 388 is corrupted
+Packet 389 is Missing!
+Packet 390 is corrupted
+Packet 392 is corrupted
+Packet 396 is corrupted
+Packet 397 is Missing!
+Packet 401 is Missing!
+Packet 405 is Missing!
+Packet 410 is Missing!
+Packet 412 is corrupted
+Packet 415 is corrupted
+Packet 416 is Missing!
+Packet 417 is corrupted
+Packet 421 is Missing!
+Packet 423 is corrupted
+Packet 424 is corrupted
+Packet 425 is corrupted
+Packet 427 is corrupted
+Packet 432 is Missing!
+Packet 434 is Missing!
+Packet 437 is Missing!
+Packet 438 is Missing!
+Packet 441 is Missing!
+Packet 443 is Missing!
+Packet 444 is Missing!
+Packet 445 is corrupted
+Packet 449 is Missing!
+Packet 450 is corrupted
+Packet 460 is Missing!
+Packet 462 is corrupted
+Packet 463 is Missing!
+Packet 464 is Missing!
+Packet 468 is corrupted
+Packet 469 is Missing!
+Packet 470 is corrupted
+Packet 472 is corrupted
+Packet 476 is Missing!
+Packet 481 is corrupted
+Packet 482 is Missing!
+Packet 483 is Missing!
+Packet 484 is Missing!
+Packet 486 is Missing!
+Packet 487 is Missing!
+Packet 489 is Missing!
+Packet 496 is corrupted
+Packet 497 is Missing!
+Packet 500 is Missing!
+Packet 501 is corrupted
+Packet 509 is corrupted
+Packet 513 is Missing!
+Packet 514 is Missing!
+Packet 517 is corrupted
+Packet 520 is corrupted
+Packet 521 is corrupted
+Packet 526 is corrupted
+Packet 529 is Missing!
+Packet 533 is Missing!
+Packet 534 is Missing!
+Packet 535 is Missing!
+Packet 536 is Missing!
+Packet 543 is corrupted
+Packet 549 is corrupted
+Packet 550 is Missing!
+Packet 554 is corrupted
+Packet 555 is Missing!
+Packet 556 is Missing!
+Packet 558 is Missing!
+Packet 560 is corrupted
+Packet 561 is Missing!
+Packet 564 is Missing!
+Packet 565 is corrupted
+Packet 566 is Missing!
+Packet 568 is Missing!
+Packet 575 is corrupted
+Packet 577 is corrupted
+Packet 578 is corrupted
+Packet 583 is corrupted
+Packet 584 is corrupted
+Packet 585 is Missing!
+Packet 590 is Missing!
+Packet 594 is Missing!
+Packet 597 is corrupted
+Packet 600 is corrupted
+Packet 602 is corrupted
+Packet 603 is corrupted
+Packet 604 is corrupted
+Packet 605 is corrupted
+Packet 610 is corrupted
+Packet 611 is corrupted
+Packet 618 is corrupted
+Packet 619 is Missing!
+Packet 623 is corrupted
+Packet 624 is Missing!
+Packet 625 is corrupted
+Packet 631 is Missing!
+Packet 636 is corrupted
+Packet 638 is Missing!
+Packet 639 is corrupted
+Packet 642 is Missing!
+Packet 646 is corrupted
+Packet 648 is corrupted
+Packet 653 is corrupted
+Packet 655 is Missing!
+Packet 660 is Missing!
+Packet 661 is corrupted
+Packet 662 is corrupted
+Packet 665 is Missing!
+Packet 675 is Missing!
+Packet 680 is Missing!
+Packet 681 is Missing!
+Packet 682 is Missing!
+Packet 685 is Missing!
+Packet 688 is Missing!
+Packet 690 is Missing!
+Packet 695 is corrupted
+Packet 696 is Missing!
+Packet 702 is corrupted
+Packet 707 is corrupted
+Packet 708 is Missing!
+Packet 709 is corrupted
+Packet 713 is Missing!
+Packet 715 is corrupted
+Packet 717 is Missing!
+Packet 723 is corrupted
+Packet 724 is corrupted
+Packet 727 is corrupted
+Packet 728 is corrupted
+Packet 731 is corrupted
+Packet 734 is Missing!
+Packet 735 is corrupted
+Packet 736 is Missing!
+Packet 737 is Missing!
+Packet 739 is Missing!
+Packet 742 is Missing!
+Packet 744 is corrupted
+Packet 745 is corrupted
+Packet 752 is corrupted
+Packet 760 is corrupted
+Packet 765 is corrupted
+Packet 770 is Missing!
+Packet 771 is Missing!
+Packet 772 is Missing!
+Packet 774 is corrupted
+Packet 779 is Missing!
+Packet 780 is corrupted
+Packet 786 is corrupted
+Packet 789 is Missing!
+Packet 790 is Missing!
+Packet 792 is Missing!
+Packet 793 is Missing!
+Packet 795 is corrupted
+Packet 796 is Missing!
+Packet 800 is Missing!
+Packet 804 is Missing!
+Packet 810 is Missing!
+Packet 811 is corrupted
+Packet 813 is Missing!
+Packet 814 is corrupted
+Packet 816 is Missing!
+Packet 821 is corrupted
+Packet 828 is Missing!
+Packet 834 is corrupted
+Packet 835 is Missing!
+Packet 838 is corrupted
+Packet 839 is Missing!
+Packet 843 is Missing!
+Packet 849 is Missing!
+Packet 850 is corrupted
+Packet 851 is corrupted
+Packet 853 is Missing!
+Packet 856 is Missing!
+Packet 859 is Missing!
+Packet 861 is Missing!
+Packet 862 is Missing!
+Packet 864 is corrupted
+Packet 866 is Missing!
+Packet 867 is corrupted
+Packet 868 is Missing!
+Packet 871 is Missing!
+Packet 875 is Missing!
+Packet 877 is corrupted
+Packet 879 is Missing!
+Packet 880 is corrupted
+Packet 881 is corrupted
+Packet 883 is Missing!
+Packet 885 is Missing!
+Packet 889 is corrupted
+Packet 891 is Missing!
+Packet 896 is corrupted
+Packet 898 is Missing!
+Packet 903 is corrupted
+Packet 909 is corrupted
+Packet 910 is Missing!
+Packet 922 is Missing!
+Packet 923 is Missing!
+Packet 927 is corrupted
+Packet 928 is Missing!
+Packet 929 is corrupted
+Packet 930 is corrupted
+Packet 933 is Missing!
+Packet 936 is Missing!
+Packet 937 is Missing!
+Packet 941 is corrupted
+Packet 942 is Missing!
+Packet 947 is Missing!
+Packet 948 is Missing!
+Packet 950 is Missing!
+Packet 951 is Missing!
+Packet 953 is Missing!
+Packet 957 is corrupted
+Packet 958 is Missing!
+Packet 959 is Missing!
+Packet 962 is corrupted
+Packet 968 is Missing!
+Packet 972 is corrupted
+Packet 973 is Missing!
+Packet 975 is Missing!
+Packet 976 is corrupted
+Packet 978 is Missing!
+Packet 979 is corrupted
+Packet 982 is Missing!
+Packet 983 is Missing!
+Packet 985 is Missing!
+Packet 990 is Missing!
+Packet 993 is corrupted
+Packet 996 is corrupted
+Packet 1004 is corrupted
+Packet 1006 is corrupted
+Packet 1007 is corrupted
+Packet 1011 is Missing!
+Packet 1013 is Missing!
+Packet 1014 is corrupted
+Packet 1017 is Missing!
+Packet 1018 is Missing!
+Packet 1020 is Missing!
+Packet 1022 is corrupted
+Packet 1028 is corrupted
+Packet 1029 is corrupted
+Packet 1032 is corrupted
+Packet 1033 is corrupted
+Packet 1036 is Missing!
+Packet 1047 is Missing!
+Packet 1049 is Missing!
+Packet 1052 is Missing!
+Packet 1053 is Missing!
+Packet 1062 is Missing!
+Packet 1064 is Missing!
+Packet 1066 is corrupted
+Packet 1067 is Missing!
+Packet 1069 is Missing!
+Packet 1070 is Missing!
+Packet 1072 is Missing!
+Packet 1074 is corrupted
+Packet 1079 is Missing!
+Packet 1081 is corrupted
+Packet 1082 is corrupted
+Packet 1086 is Missing!
+Packet 1088 is Missing!
+Packet 1091 is corrupted
+Packet 1092 is corrupted
+Packet 1095 is corrupted
+Packet 1096 is corrupted
+Packet 1099 is Missing!
+Packet 1100 is Missing!
+Packet 1101 is corrupted
+Packet 1103 is corrupted
+Packet 1105 is corrupted
+Packet 1107 is Missing!
+Packet 1108 is Missing!
+Packet 1115 is Missing!
+Packet 1116 is corrupted
+Packet 1119 is corrupted
+Packet 1125 is corrupted
+Packet 1126 is Missing!
+Packet 1129 is Missing!
+Packet 1131 is Missing!
+Packet 1133 is corrupted
+Packet 1136 is corrupted
+Packet 1137 is corrupted
+Packet 1143 is Missing!
+Packet 1145 is Missing!
+Packet 1146 is Missing!
+Packet 1148 is Missing!
+Packet 1157 is Missing!
+Packet 1158 is Missing!
+Packet 1159 is Missing!
+Packet 1162 is Missing!
+Packet 1164 is corrupted
+Packet 1168 is Missing!
+Packet 1170 is Missing!
+Packet 1176 is Missing!
+Packet 1179 is corrupted
+Packet 1184 is Missing!
+Packet 1185 is corrupted
+Packet 1192 is Missing!
+Packet 1194 is Missing!
+Packet 1195 is Missing!
+Packet 1196 is Missing!
+Packet 1199 is Missing!
+Packet 1200 is Missing!
+Packet 1202 is Missing!
+Packet 1204 is Missing!
+Packet 1206 is corrupted
+Packet 1211 is Missing!
+Packet 1212 is Missing!
+Packet 1220 is Missing!
+Packet 1221 is Missing!
+Packet 1226 is corrupted
+Packet 1229 is corrupted
+Packet 1232 is corrupted
+Packet 1233 is corrupted
+Packet 1234 is Missing!
+Packet 1236 is corrupted
+Packet 1243 is Missing!
+Packet 1247 is corrupted
+Packet 1248 is Missing!
+Packet 1249 is Missing!
+Packet 1250 is corrupted
+Packet 1252 is Missing!
+Packet 1254 is corrupted
+Packet 1257 is Missing!
+Packet 1258 is corrupted
+Packet 1260 is Missing!
+Packet 1266 is Missing!
+Packet 1267 is Missing!
+Packet 1269 is Missing!
+Packet 1271 is corrupted
+Packet 1274 is Missing!
+Packet 1278 is Missing!
+Packet 1279 is Missing!
+Packet 1280 is corrupted
+Packet 1281 is Missing!
+Packet 1288 is corrupted
+Packet 1289 is Missing!
+Packet 1296 is Missing!
+Packet 1297 is Missing!
+Packet 1299 is corrupted
+Packet 1301 is corrupted
+Packet 1302 is Missing!
+Packet 1303 is Missing!
+Packet 1306 is corrupted
+Packet 1307 is corrupted
+Packet 1308 is Missing!
+Packet 1310 is corrupted
+Packet 1319 is corrupted
+Packet 1324 is Missing!
+Packet 1333 is corrupted
+Packet 1334 is corrupted
+Packet 1336 is Missing!
+Packet 1342 is corrupted
+Packet 1346 is Missing!
+Packet 1358 is Missing!
+Packet 1359 is Missing!
+Packet 1366 is corrupted
+Packet 1367 is corrupted
+Packet 1368 is Missing!
+Packet 1370 is Missing!
+Packet 1376 is Missing!
+Packet 1379 is corrupted
+Packet 1384 is Missing!
+Packet 1393 is Missing!
+Packet 1395 is corrupted
+Packet 1399 is corrupted
+Packet 1400 is Missing!
+Packet 1402 is corrupted
+Packet 1403 is corrupted
+Packet 1404 is Missing!
+Packet 1409 is corrupted
+Packet 1413 is Missing!
+Packet 1421 is Missing!
+Packet 1424 is Missing!
+Packet 1426 is corrupted
+Packet 1428 is corrupted
+Packet 1429 is Missing!
+Packet 1430 is corrupted
+Packet 1431 is Missing!
+Packet 1432 is corrupted
+Packet 1434 is Missing!
+Packet 1436 is corrupted
+Packet 1437 is Missing!
+Packet 1443 is corrupted
+Packet 1444 is Missing!
+Packet 1446 is corrupted
+Packet 1450 is Missing!
+Packet 1455 is corrupted
+Packet 1457 is Missing!
+Packet 1460 is Missing!
+Packet 1461 is corrupted
+Packet 1462 is Missing!
+Packet 1463 is corrupted
+Packet 1473 is corrupted
+Packet 1475 is corrupted
+Packet 1478 is Missing!
+Packet 1480 is Missing!
+Packet 1483 is Missing!
+Packet 1485 is Missing!
+Packet 1492 is corrupted
+Packet 1493 is Missing!
+Packet 1494 is corrupted
+Packet 1495 is Missing!
+Packet 1497 is corrupted
+Packet 1501 is Missing!
+Packet 1503 is Missing!
+Packet 1507 is Missing!
+Packet 1508 is Missing!
+Packet 1510 is Missing!
+Packet 1513 is Missing!
+Packet 1517 is Missing!
+Packet 1518 is Missing!
+Packet 1520 is Missing!
+Packet 1524 is Missing!
+Packet 1531 is corrupted
+Packet 1532 is Missing!
+Packet 1533 is Missing!
+Packet 1535 is corrupted
+Packet 1545 is Missing!
+Packet 1550 is corrupted
+Packet 1551 is Missing!
+Packet 1553 is Missing!
+Packet 1554 is corrupted
+Packet 1556 is Missing!
+Packet 1557 is corrupted
+Packet 1560 is corrupted
+Packet 1567 is Missing!
+Packet 1568 is Missing!
+Packet 1570 is Missing!
+Packet 1572 is Missing!
+Packet 1573 is Missing!
+Packet 1576 is Missing!
+Packet 1577 is corrupted
+Packet 1581 is Missing!
+Packet 1582 is Missing!
+Packet 1583 is corrupted
+Packet 1584 is corrupted
+Packet 1585 is corrupted
+Packet 1589 is Missing!
+Packet 1590 is corrupted
+Packet 1594 is corrupted
+Packet 1599 is corrupted
+Packet 1608 is corrupted
+Packet 1610 is Missing!
+Packet 1621 is Missing!
+Packet 1623 is corrupted
+Packet 1629 is corrupted
+Packet 1630 is Missing!
+Packet 1631 is corrupted
+Packet 1638 is corrupted
+Packet 1639 is corrupted
+Packet 1643 is corrupted
+Packet 1645 is corrupted
+Packet 1646 is Missing!
+Packet 1649 is corrupted
+Packet 1653 is Missing!
+Packet 1654 is Missing!
+Packet 1655 is Missing!
+Packet 1656 is Missing!
+Packet 1658 is corrupted
+Packet 1659 is Missing!
+Packet 1663 is Missing!
+Packet 1665 is Missing!
+Packet 1670 is Missing!
+Packet 1671 is Missing!
+Packet 1672 is Missing!
+Packet 1673 is Missing!
+Packet 1677 is Missing!
+Packet 1678 is Missing!
+Packet 1679 is Missing!
+Packet 1680 is corrupted
+Packet 1685 is corrupted
+Packet 1689 is Missing!
+Packet 1693 is Missing!
+Packet 1696 is corrupted
+Packet 1697 is corrupted
+Packet 1699 is corrupted
+Packet 1700 is Missing!
+Packet 1701 is Missing!
+Packet 1705 is corrupted
+Packet 1706 is Missing!
+Packet 1712 is corrupted
+Packet 1713 is corrupted
+Packet 1714 is Missing!
+Packet 1715 is corrupted
+Packet 1716 is corrupted
+Packet 1717 is corrupted
+Packet 1719 is corrupted
+Packet 1722 is corrupted
+Packet 1723 is corrupted
+Packet 1726 is corrupted
+Packet 1737 is corrupted
+Packet 1738 is Missing!
+Packet 1739 is corrupted
+Packet 1742 is Missing!
+Packet 1743 is corrupted
+Packet 1752 is Missing!
+Packet 1755 is Missing!
+Packet 1756 is corrupted
+Packet 1758 is Missing!
+Packet 1759 is Missing!
+Packet 1760 is Missing!
+Packet 1764 is corrupted
+Packet 1765 is Missing!
+Packet 1766 is corrupted
+Packet 1771 is corrupted
+Packet 1773 is corrupted
+Packet 1774 is Missing!
+Packet 1775 is corrupted
+Packet 1776 is corrupted
+Packet 1779 is Missing!
+Packet 1781 is Missing!
+Packet 1782 is Missing!
+Packet 1783 is corrupted
+Packet 1786 is Missing!
+Packet 1787 is corrupted
+Packet 1791 is corrupted
+Packet 1798 is Missing!
+Packet 1799 is corrupted
+Packet 1800 is corrupted
+Packet 1808 is Missing!
+Packet 1809 is Missing!
+Packet 1814 is Missing!
+Packet 1815 is Missing!
+Packet 1816 is Missing!
+Packet 1818 is Missing!
+Packet 1823 is corrupted
+Packet 1824 is corrupted
+Packet 1827 is corrupted
+Packet 1828 is Missing!
+Packet 1835 is corrupted
+Packet 1836 is Missing!
+Packet 1838 is Missing!
+Packet 1839 is Missing!
+Packet 1840 is corrupted
+Packet 1843 is Missing!
+Packet 1844 is Missing!
+Packet 1845 is Missing!
+Packet 1848 is Missing!
+Packet 1851 is corrupted
+Packet 1856 is Missing!
+Packet 1857 is Missing!
+Packet 1860 is Missing!
+Packet 1861 is Missing!
+Packet 1862 is Missing!
+Packet 1865 is Missing!
+Packet 1871 is Missing!
+Packet 1874 is corrupted
+Packet 1876 is corrupted
+Packet 1878 is corrupted
+Packet 1879 is corrupted
+Packet 1885 is corrupted
+Packet 1887 is corrupted
+Packet 1889 is corrupted
+Packet 1892 is corrupted
+Packet 1894 is Missing!
+Packet 1897 is Missing!
+Packet 1899 is Missing!
+Packet 1902 is corrupted
+Packet 1904 is Missing!
+Packet 1906 is corrupted
+Packet 1907 is Missing!
+Packet 1908 is Missing!
+Packet 1910 is Missing!
+Packet 1911 is Missing!
+Packet 1920 is corrupted
+Packet 1924 is corrupted
+Packet 1926 is Missing!
+Packet 1928 is Missing!
+Packet 1929 is corrupted
+Packet 1937 is Missing!
+Packet 1944 is corrupted
+Packet 1947 is Missing!
+Packet 1951 is Missing!
+Packet 1955 is Missing!
+Packet 1959 is corrupted
+Packet 1963 is Missing!
+Packet 1964 is corrupted
+Packet 1965 is Missing!
+Packet 1966 is corrupted
+Packet 1967 is corrupted
+Packet 1968 is Missing!
+Packet 1969 is corrupted
+Packet 1971 is Missing!
+Packet 1972 is Missing!
+Packet 1975 is corrupted
+Packet 1978 is corrupted
+Packet 1983 is corrupted
+Packet 1986 is Missing!
+Packet 1990 is corrupted
+Packet 1991 is Missing!
+Packet 1994 is Missing!
+Packet 2001 is Missing!
+Packet 2007 is corrupted
+Packet 2008 is corrupted
+Packet 2009 is Missing!
+Packet 2011 is Missing!
+Packet 2013 is Missing!
+Packet 2016 is corrupted
+Packet 2018 is Missing!
+Packet 2020 is Missing!
+Packet 2021 is corrupted
+Packet 2026 is Missing!
+Packet 2032 is corrupted
+Packet 2033 is Missing!
+Packet 2038 is corrupted
+Packet 2040 is corrupted
+Packet 2049 is Missing!
+Packet 2055 is Missing!
+Packet 2057 is corrupted
+Packet 2059 is Missing!
+Packet 2060 is corrupted
+Packet 2062 is corrupted
+Packet 2065 is Missing!
+Packet 2066 is corrupted
+Packet 2067 is Missing!
+Packet 2070 is Missing!
+Packet 2074 is Missing!
+Packet 2076 is Missing!
+Packet 2078 is corrupted
+Packet 2083 is corrupted
+Packet 2084 is Missing!
+Packet 2087 is Missing!
+Packet 2098 is Missing!
+Packet 2100 is Missing!
+Packet 2104 is Missing!
+Packet 2105 is Missing!
+Packet 2109 is Missing!
+Packet 2110 is corrupted
+Packet 2113 is Missing!
+Packet 2114 is Missing!
+Packet 2116 is Missing!
+Packet 2119 is Missing!
+Packet 2122 is Missing!
+Packet 2123 is Missing!
+Packet 2134 is Missing!
+Packet 2135 is corrupted
+Packet 2136 is corrupted
+Packet 2138 is corrupted
+Packet 2140 is Missing!
+Packet 2144 is Missing!
+Packet 2157 is Missing!
+Packet 2158 is corrupted
+Packet 2159 is corrupted
+Packet 2161 is Missing!
+Packet 2162 is Missing!
+Packet 2163 is Missing!
+Packet 2167 is corrupted
+Packet 2168 is corrupted
+Packet 2170 is corrupted
+Packet 2173 is corrupted
+Packet 2174 is Missing!
+Packet 2175 is corrupted
+Packet 2183 is Missing!
+Packet 2184 is Missing!
+Packet 2190 is Missing!
+Packet 2192 is Missing!
+Packet 2194 is Missing!
+Packet 2198 is corrupted
+Packet 2203 is Missing!
+Packet 2206 is corrupted
+Packet 2209 is Missing!
+Packet 2210 is corrupted
+Packet 2214 is corrupted
+Packet 2216 is corrupted
+Packet 2219 is Missing!
+Packet 2220 is corrupted
+Packet 2228 is corrupted
+Packet 2233 is Missing!
+Packet 2235 is corrupted
+Packet 2237 is Missing!
+Packet 2250 is Missing!
+Packet 2251 is corrupted
+Packet 2252 is corrupted
+Packet 2258 is corrupted
+Packet 2260 is Missing!
+Packet 2262 is corrupted
+Packet 2263 is Missing!
+Packet 2267 is Missing!
+Packet 2271 is corrupted
+Packet 2274 is corrupted
+Packet 2281 is Missing!
+Packet 2284 is Missing!
+Packet 2287 is Missing!
+Packet 2288 is Missing!
+Packet 2290 is corrupted
+Packet 2291 is corrupted
+Packet 2294 is Missing!
+Packet 2296 is corrupted
+Packet 2297 is Missing!
+Packet 2298 is Missing!
+Packet 2299 is Missing!
+Packet 2300 is corrupted
+Packet 2301 is corrupted
+Packet 2302 is Missing!
+Packet 2307 is Missing!
+Packet 2308 is Missing!
+Packet 2311 is Missing!
+Packet 2315 is corrupted
+Packet 2324 is Missing!
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           [0m[27m[24m[Jconnorsanders@Connors-MacBook-Pro-2 Networks Project % [K[?2004heexit[?2004l
+
+Script done on Thu Nov  3 16:04:59 2022
+say we end
+Sending package 3: 306_4377,The heart-ache and the thousand natural shocks
+Sending package 3: 307_3875,That flesh is heir to: 'tis a consummation
+Sending package 3: 308_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 3: 309_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 3: 310_4372,For in that sleep of death what dreams may come,
+Sending package 3: 311_4002,When we have shuffled off this mortal coil,
+Sending package 3: 312_3299,Must give us pause—there's the respect
+Sending package 3: 313_3317,That makes calamity of so long life.
+Sending package 3: 314_4427,For who would bear the whips and scorns of time,
+Sending package 3: 315_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 3: 316_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 3: 317_3639,The insolence of office, and the spurns
+Sending package 3: 318_3837,That patient merit of th'unworthy takes,
+Sending package 3: 319_3612,When he himself might his quietus make
+Sending package 3: 320_3895,With a bare bodkin? Who would fardels bear,
+Sending package 3: 321_3495,To grunt and sweat under a weary life,
+Sending package 3: 322_4078,But that the dread of something after death,
+Sending package 3: 323_4157,The undiscovere'd country, from whose bourn
+Sending package 3: 324_3769,No traveller returns, puzzles the will,
+Sending package 3: 325_3981,And makes us rather bear those ills we have
+Sending package 3: 326_3593,Than fly to others that we know not of?
+Sending package 3: 327_4106,Thus conscience doth make cowards of us all,
+Sending package 3: 328_3540,And thus the native hue of resolution
+Sending package 3: 329_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 3: 330_3825,And enterprises of great pith and moment
+Sending package 3: 331_4017,With this regard their currents turn awry
+Sending package 3: 332_2515,And lose the name of action.
+Sending package 3: 333_3688,To be, or not to be, that is the question:
+Sending package 3: 334_3816,Whether 'tis nobler in the mind to suffer
+Sending package 3: 335_4254,The slings and arrows of outrageous fortune,
+Sending package 3: 336_3788,Or to take arms against a sea of troubles
+Sending package 3: 337_3437,And by opposing end them. To die—to sleep,
+Sending package 3: 338_3232,No more; and by a sleep to say we end
+Sending package 3: 339_4377,The heart-ache and the thousand natural shocks
+Sending package 3: 340_3875,That flesh is heir to: 'tis a consummation
+Sending package 3: 341_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 3: 342_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 3: 343_4372,For in that sleep of death what dreams may come,
+Sending package 3: 344_4002,When we have shuffled off this mortal coil,
+Sending package 3: 345_3299,Must give us pause—there's the respect
+Sending package 3: 346_3317,That makes calamity of so long life.
+Sending package 3: 347_4427,For who would bear the whips and scorns of time,
+Sending package 3: 348_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 3: 349_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 3: 350_3639,The insolence of office, and the spurns
+Sending package 3: 351_3837,That patient merit of th'unworthy takes,
+Sending package 3: 352_3612,When he himself might his quietus make
+Sending package 3: 353_3895,With a bare bodkin? Who would fardels bear,
+Sending package 3: 354_3495,To grunt and sweat under a weary life,
+Sending package 3: 355_4078,But that the dread of something after death,
+Sending package 3: 356_4157,The undiscovere'd country, from whose bourn
+Sending package 3: 357_3769,No traveller returns, puzzles the will,
+Sending package 3: 358_3981,And makes us rather bear those ills we have
+Sending package 3: 359_3593,Than fly to others that we know not of?
+Sending package 3: 360_4106,Thus conscience doth make cowards of us all,
+Sending package 3: 361_3540,And thus the native hue of resolution
+Sending package 3: 362_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 3: 363_3825,And enterprises of great pith and moment
+Sending package 3: 364_4017,With this regard their currents turn awry
+Sending package 3: 365_2515,And lose the name of action.
+Sending package 3: 366_3688,To be, or not to be, that is the question:
+Sending package 3: 367_3816,Whether 'tis nobler in the mind to suffer
+Sending package 3: 368_4254,The slings and arrows of outrageous fortune,
+Sending package 3: 369_3788,Or to take arms against a sea of troubles
+Sending package 3: 370_3437,And by opposing end them. To die—to sleep,
+Sending package 3: 371_3232,No more; and by a sleep to say we end
+Sending package 3: 372_4377,The heart-ache and the thousand natural shocks
+Sending package 3: 373_3875,That flesh is heir to: 'tis a consummation
+Sending package 3: 374_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 3: 375_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 3: 376_4372,For in that sleep of death what dreams may come,
+Sending package 3: 377_4002,When we have shuffled off this mortal coil,
+Sending package 3: 378_3299,Must give us pause—there's the respect
+Sending package 3: 379_3317,That makes calamity of so long life.
+Sending package 3: 380_4427,For who would bear the whips and scorns of time,
+Sending package 3: 381_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 3: 382_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 3: 383_3639,The insolence of office, and the spurns
+Sending package 3: 384_3837,That patient merit of th'unworthy takes,
+Sending package 3: 385_3612,When he himself might his quietus make
+Sending package 3: 386_3895,With a bare bodkin? Who would fardels bear,
+Sending package 3: 387_3495,To grunt and sweat under a weary life,
+Sending package 3: 388_4078,But that the dread of something after death,
+Sending package 3: 389_4157,The undiscovere'd country, from whose bourn
+Sending package 3: 390_3769,No traveller returns, puzzles the will,
+Sending package 3: 391_3981,And makes us rather bear those ills we have
+Sending package 3: 392_3593,Than fly to others that we know not of?
+Sending package 3: 393_4106,Thus conscience doth make cowards of us all,
+Sending package 3: 394_3540,And thus the native hue of resolution
+Sending package 3: 395_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 3: 396_3825,And enterprises of great pith and moment
+Sending package 3: 397_4017,With this regard their currents turn awry
+Sending package 3: 398_2515,And lose the name of action.
+Sending package 3: 399_3688,To be, or not to be, that is the question:
+Sending package 4: 400_3816,Whether 'tis nobler in the mind to suffer
+Sending package 4: 401_4254,The slings and arrows of outrageous fortune,
+Sending package 4: 402_3788,Or to take arms against a sea of troubles
+Sending package 4: 403_3437,And by opposing end them. To die—to sleep,
+Sending package 4: 404_3232,No more; and by a sleep to say we end
+Sending package 4: 405_4377,The heart-ache and the thousand natural shocks
+Sending package 4: 406_3875,That flesh is heir to: 'tis a consummation
+Sending package 4: 407_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 4: 408_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 4: 409_4372,For in that sleep of death what dreams may come,
+Sending package 4: 410_4002,When we have shuffled off this mortal coil,
+Sending package 4: 411_3299,Must give us pause—there's the respect
+Sending package 4: 412_3317,That makes calamity of so long life.
+Sending package 4: 413_4427,For who would bear the whips and scorns of time,
+Sending package 4: 414_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 4: 415_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 4: 416_3639,The insolence of office, and the spurns
+Sending package 4: 417_3837,That patient merit of th'unworthy takes,
+Sending package 4: 418_3612,When he himself might his quietus make
+Sending package 4: 419_3895,With a bare bodkin? Who would fardels bear,
+Sending package 4: 420_3495,To grunt and sweat under a weary life,
+Sending package 4: 421_4078,But that the dread of something after death,
+Sending package 4: 422_4157,The undiscovere'd country, from whose bourn
+Sending package 4: 423_3769,No traveller returns, puzzles the will,
+Sending package 4: 424_3981,And makes us rather bear those ills we have
+Sending package 4: 425_3593,Than fly to others that we know not of?
+Sending package 4: 426_4106,Thus conscience doth make cowards of us all,
+Sending package 4: 427_3540,And thus the native hue of resolution
+Sending package 4: 428_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 4: 429_3825,And enterprises of great pith and moment
+Sending package 4: 430_4017,With this regard their currents turn awry
+Sending package 4: 431_2515,And lose the name of action.
+Sending package 4: 432_3688,To be, or not to be, that is the question:
+Sending package 4: 433_3816,Whether 'tis nobler in the mind to suffer
+Sending package 4: 434_4254,The slings and arrows of outrageous fortune,
+Sending package 4: 435_3788,Or to take arms against a sea of troubles
+Sending package 4: 436_3437,And by opposing end them. To die—to sleep,
+Sending package 4: 437_3232,No more; and by a sleep to say we end
+Sending package 4: 438_4377,The heart-ache and the thousand natural shocks
+Sending package 4: 439_3875,That flesh is heir to: 'tis a consummation
+Sending package 4: 440_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 4: 441_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 4: 442_4372,For in that sleep of death what dreams may come,
+Sending package 4: 443_4002,When we have shuffled off this mortal coil,
+Sending package 4: 444_3299,Must give us pause—there's the respect
+Sending package 4: 445_3317,That makes calamity of so long life.
+Sending package 4: 446_4427,For who would bear the whips and scorns of time,
+Sending package 4: 447_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 4: 448_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 4: 449_3639,The insolence of office, and the spurns
+Sending package 4: 450_3837,That patient merit of th'unworthy takes,
+Sending package 4: 451_3612,When he himself might his quietus make
+Sending package 4: 452_3895,With a bare bodkin? Who would fardels bear,
+Sending package 4: 453_3495,To grunt and sweat under a weary life,
+Sending package 4: 454_4078,But that the dread of something after death,
+Sending package 4: 455_4157,The undiscovere'd country, from whose bourn
+Sending package 4: 456_3769,No traveller returns, puzzles the will,
+Sending package 4: 457_3981,And makes us rather bear those ills we have
+Sending package 4: 458_3593,Than fly to others that we know not of?
+Sending package 4: 459_4106,Thus conscience doth make cowards of us all,
+Sending package 4: 460_3540,And thus the native hue of resolution
+Sending package 4: 461_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 4: 462_3825,And enterprises of great pith and moment
+Sending package 4: 463_4017,With this regard their currents turn awry
+Sending package 4: 464_2515,And lose the name of action.
+Sending package 4: 465_3688,To be, or not to be, that is the question:
+Sending package 4: 466_3816,Whether 'tis nobler in the mind to suffer
+Sending package 4: 467_4254,The slings and arrows of outrageous fortune,
+Sending package 4: 468_3788,Or to take arms against a sea of troubles
+Sending package 4: 469_3437,And by opposing end them. To die—to sleep,
+Sending package 4: 470_3232,No more; and by a sleep to say we end
+Sending package 4: 471_4377,The heart-ache and the thousand natural shocks
+Sending package 4: 472_3875,That flesh is heir to: 'tis a consummation
+Sending package 4: 473_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 4: 474_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 4: 475_4372,For in that sleep of death what dreams may come,
+Sending package 4: 476_4002,When we have shuffled off this mortal coil,
+Sending package 4: 477_3299,Must give us pause—there's the respect
+Sending package 4: 478_3317,That makes calamity of so long life.
+Sending package 4: 479_4427,For who would bear the whips and scorns of time,
+Sending package 4: 480_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 4: 481_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 4: 482_3639,The insolence of office, and the spurns
+Sending package 4: 483_3837,That patient merit of th'unworthy takes,
+Sending package 4: 484_3612,When he himself might his quietus make
+Sending package 4: 485_3895,With a bare bodkin? Who would fardels bear,
+Sending package 4: 486_3495,To grunt and sweat under a weary life,
+Sending package 4: 487_4078,But that the dread of something after death,
+Sending package 4: 488_4157,The undiscovere'd country, from whose bourn
+Sending package 4: 489_3769,No traveller returns, puzzles the will,
+Sending package 4: 490_3981,And makes us rather bear those ills we have
+Sending package 4: 491_3593,Than fly to others that we know not of?
+Sending package 4: 492_4106,Thus conscience doth make cowards of us all,
+Sending package 4: 493_3540,And thus the native hue of resolution
+Sending package 4: 494_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 4: 495_3825,And enterprises of great pith and moment
+Sending package 4: 496_4017,With this regard their currents turn awry
+Sending package 4: 497_2515,And lose the name of action.
+Sending package 4: 498_10,
+Sending package 4: 499_3688,To be, or not to be, that is the question:
+Sending package 5: 500_3816,Whether 'tis nobler in the mind to suffer
+Sending package 5: 501_4254,The slings and arrows of outrageous fortune,
+Sending package 5: 502_3788,Or to take arms against a sea of troubles
+Sending package 5: 503_3437,And by opposing end them. To die—to sleep,
+Sending package 5: 504_3232,No more; and by a sleep to say we end
+Sending package 5: 505_4377,The heart-ache and the thousand natural shocks
+Sending package 5: 506_3875,That flesh is heir to: 'tis a consummation
+Sending package 5: 507_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 5: 508_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 5: 509_4372,For in that sleep of death what dreams may come,
+Sending package 5: 510_4002,When we have shuffled off this mortal coil,
+Sending package 5: 511_3299,Must give us pause—there's the respect
+Sending package 5: 512_3317,That makes calamity of so long life.
+Sending package 5: 513_4427,For who would bear the whips and scorns of time,
+Sending package 5: 514_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 5: 515_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 5: 516_3639,The insolence of office, and the spurns
+Sending package 5: 517_3837,That patient merit of th'unworthy takes,
+Sending package 5: 518_3612,When he himself might his quietus make
+Sending package 5: 519_3895,With a bare bodkin? Who would fardels bear,
+Sending package 5: 520_3495,To grunt and sweat under a weary life,
+Sending package 5: 521_4078,But that the dread of something after death,
+Sending package 5: 522_4157,The undiscovere'd country, from whose bourn
+Sending package 5: 523_3769,No traveller returns, puzzles the will,
+Sending package 5: 524_3981,And makes us rather bear those ills we have
+Sending package 5: 525_3593,Than fly to others that we know not of?
+Sending package 5: 526_4106,Thus conscience doth make cowards of us all,
+Sending package 5: 527_3540,And thus the native hue of resolution
+Sending package 5: 528_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 5: 529_3825,And enterprises of great pith and moment
+Sending package 5: 530_4017,With this regard their currents turn awry
+Sending package 5: 531_2515,And lose the name of action.
+Sending package 5: 532_10,
+Sending package 5: 533_10,
+Sending package 5: 534_3688,To be, or not to be, that is the question:
+Sending package 5: 535_3816,Whether 'tis nobler in the mind to suffer
+Sending package 5: 536_4254,The slings and arrows of outrageous fortune,
+Sending package 5: 537_3788,Or to take arms against a sea of troubles
+Sending package 5: 538_3437,And by opposing end them. To die—to sleep,
+Sending package 5: 539_3232,No more; and by a sleep to say we end
+Sending package 5: 540_4377,The heart-ache and the thousand natural shocks
+Sending package 5: 541_3875,That flesh is heir to: 'tis a consummation
+Sending package 5: 542_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 5: 543_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 5: 544_4372,For in that sleep of death what dreams may come,
+Sending package 5: 545_4002,When we have shuffled off this mortal coil,
+Sending package 5: 546_3299,Must give us pause—there's the respect
+Sending package 5: 547_3317,That makes calamity of so long life.
+Sending package 5: 548_4427,For who would bear the whips and scorns of time,
+Sending package 5: 549_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 5: 550_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 5: 551_3639,The insolence of office, and the spurns
+Sending package 5: 552_3837,That patient merit of th'unworthy takes,
+Sending package 5: 553_3612,When he himself might his quietus make
+Sending package 5: 554_3895,With a bare bodkin? Who would fardels bear,
+Sending package 5: 555_3495,To grunt and sweat under a weary life,
+Sending package 5: 556_4078,But that the dread of something after death,
+Sending package 5: 557_4157,The undiscovere'd country, from whose bourn
+Sending package 5: 558_3769,No traveller returns, puzzles the will,
+Sending package 5: 559_3981,And makes us rather bear those ills we have
+Sending package 5: 560_3593,Than fly to others that we know not of?
+Sending package 5: 561_4106,Thus conscience doth make cowards of us all,
+Sending package 5: 562_3540,And thus the native hue of resolution
+Sending package 5: 563_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 5: 564_3825,And enterprises of great pith and moment
+Sending package 5: 565_4017,With this regard their currents turn awry
+Sending package 5: 566_2515,And lose the name of action.
+Sending package 5: 567_3688,To be, or not to be, that is the question:
+Sending package 5: 568_3816,Whether 'tis nobler in the mind to suffer
+Sending package 5: 569_4254,The slings and arrows of outrageous fortune,
+Sending package 5: 570_3788,Or to take arms against a sea of troubles
+Sending package 5: 571_3437,And by opposing end them. To die—to sleep,
+Sending package 5: 572_3232,No more; and by a sleep to say we end
+Sending package 5: 573_4377,The heart-ache and the thousand natural shocks
+Sending package 5: 574_3875,That flesh is heir to: 'tis a consummation
+Sending package 5: 575_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 5: 576_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 5: 577_4372,For in that sleep of death what dreams may come,
+Sending package 5: 578_4002,When we have shuffled off this mortal coil,
+Sending package 5: 579_3299,Must give us pause—there's the respect
+Sending package 5: 580_3317,That makes calamity of so long life.
+Sending package 5: 581_4427,For who would bear the whips and scorns of time,
+Sending package 5: 582_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 5: 583_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 5: 584_3639,The insolence of office, and the spurns
+Sending package 5: 585_3837,That patient merit of th'unworthy takes,
+Sending package 5: 586_3612,When he himself might his quietus make
+Sending package 5: 587_3895,With a bare bodkin? Who would fardels bear,
+Sending package 5: 588_3495,To grunt and sweat under a weary life,
+Sending package 5: 589_4078,But that the dread of something after death,
+Sending package 5: 590_4157,The undiscovere'd country, from whose bourn
+Sending package 5: 591_3769,No traveller returns, puzzles the will,
+Sending package 5: 592_3981,And makes us rather bear those ills we have
+Sending package 5: 593_3593,Than fly to others that we know not of?
+Sending package 5: 594_4106,Thus conscience doth make cowards of us all,
+Sending package 5: 595_3540,And thus the native hue of resolution
+Sending package 5: 596_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 5: 597_3825,And enterprises of great pith and moment
+Sending package 5: 598_4017,With this regard their currents turn awry
+Sending package 5: 599_2515,And lose the name of action.
+Sending package 6: 600_3688,To be, or not to be, that is the question:
+Sending package 6: 601_3816,Whether 'tis nobler in the mind to suffer
+Sending package 6: 602_4254,The slings and arrows of outrageous fortune,
+Sending package 6: 603_3788,Or to take arms against a sea of troubles
+Sending package 6: 604_3437,And by opposing end them. To die—to sleep,
+Sending package 6: 605_3232,No more; and by a sleep to say we end
+Sending package 6: 606_4377,The heart-ache and the thousand natural shocks
+Sending package 6: 607_3875,That flesh is heir to: 'tis a consummation
+Sending package 6: 608_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 6: 609_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 6: 610_4372,For in that sleep of death what dreams may come,
+Sending package 6: 611_4002,When we have shuffled off this mortal coil,
+Sending package 6: 612_3299,Must give us pause—there's the respect
+Sending package 6: 613_3317,That makes calamity of so long life.
+Sending package 6: 614_4427,For who would bear the whips and scorns of time,
+Sending package 6: 615_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 6: 616_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 6: 617_3639,The insolence of office, and the spurns
+Sending package 6: 618_3837,That patient merit of th'unworthy takes,
+Sending package 6: 619_3612,When he himself might his quietus make
+Sending package 6: 620_3895,With a bare bodkin? Who would fardels bear,
+Sending package 6: 621_3495,To grunt and sweat under a weary life,
+Sending package 6: 622_4078,But that the dread of something after death,
+Sending package 6: 623_4157,The undiscovere'd country, from whose bourn
+Sending package 6: 624_3769,No traveller returns, puzzles the will,
+Sending package 6: 625_3981,And makes us rather bear those ills we have
+Sending package 6: 626_3593,Than fly to others that we know not of?
+Sending package 6: 627_4106,Thus conscience doth make cowards of us all,
+Sending package 6: 628_3540,And thus the native hue of resolution
+Sending package 6: 629_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 6: 630_3825,And enterprises of great pith and moment
+Sending package 6: 631_4017,With this regard their currents turn awry
+Sending package 6: 632_2515,And lose the name of action.
+Sending package 6: 633_3688,To be, or not to be, that is the question:
+Sending package 6: 634_3816,Whether 'tis nobler in the mind to suffer
+Sending package 6: 635_4254,The slings and arrows of outrageous fortune,
+Sending package 6: 636_3788,Or to take arms against a sea of troubles
+Sending package 6: 637_3437,And by opposing end them. To die—to sleep,
+Sending package 6: 638_3232,No more; and by a sleep to say we end
+Sending package 6: 639_4377,The heart-ache and the thousand natural shocks
+Sending package 6: 640_3875,That flesh is heir to: 'tis a consummation
+Sending package 6: 641_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 6: 642_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 6: 643_4372,For in that sleep of death what dreams may come,
+Sending package 6: 644_4002,When we have shuffled off this mortal coil,
+Sending package 6: 645_3299,Must give us pause—there's the respect
+Sending package 6: 646_3317,That makes calamity of so long life.
+Sending package 6: 647_4427,For who would bear the whips and scorns of time,
+Sending package 6: 648_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 6: 649_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 6: 650_3639,The insolence of office, and the spurns
+Sending package 6: 651_3837,That patient merit of th'unworthy takes,
+Sending package 6: 652_3612,When he himself might his quietus make
+Sending package 6: 653_3895,With a bare bodkin? Who would fardels bear,
+Sending package 6: 654_3495,To grunt and sweat under a weary life,
+Sending package 6: 655_4078,But that the dread of something after death,
+Sending package 6: 656_4157,The undiscovere'd country, from whose bourn
+Sending package 6: 657_3769,No traveller returns, puzzles the will,
+Sending package 6: 658_3981,And makes us rather bear those ills we have
+Sending package 6: 659_3593,Than fly to others that we know not of?
+Sending package 6: 660_4106,Thus conscience doth make cowards of us all,
+Sending package 6: 661_3540,And thus the native hue of resolution
+Sending package 6: 662_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 6: 663_3825,And enterprises of great pith and moment
+Sending package 6: 664_4017,With this regard their currents turn awry
+Sending package 6: 665_2515,And lose the name of action.
+Sending package 6: 666_3688,To be, or not to be, that is the question:
+Sending package 6: 667_3816,Whether 'tis nobler in the mind to suffer
+Sending package 6: 668_4254,The slings and arrows of outrageous fortune,
+Sending package 6: 669_3788,Or to take arms against a sea of troubles
+Sending package 6: 670_3437,And by opposing end them. To die—to sleep,
+Sending package 6: 671_3232,No more; and by a sleep to say we end
+Sending package 6: 672_4377,The heart-ache and the thousand natural shocks
+Sending package 6: 673_3875,That flesh is heir to: 'tis a consummation
+Sending package 6: 674_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 6: 675_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 6: 676_4372,For in that sleep of death what dreams may come,
+Sending package 6: 677_4002,When we have shuffled off this mortal coil,
+Sending package 6: 678_3299,Must give us pause—there's the respect
+Sending package 6: 679_3317,That makes calamity of so long life.
+Sending package 6: 680_4427,For who would bear the whips and scorns of time,
+Sending package 6: 681_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 6: 682_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 6: 683_3639,The insolence of office, and the spurns
+Sending package 6: 684_3837,That patient merit of th'unworthy takes,
+Sending package 6: 685_3612,When he himself might his quietus make
+Sending package 6: 686_3895,With a bare bodkin? Who would fardels bear,
+Sending package 6: 687_3495,To grunt and sweat under a weary life,
+Sending package 6: 688_4078,But that the dread of something after death,
+Sending package 6: 689_4157,The undiscovere'd country, from whose bourn
+Sending package 6: 690_3769,No traveller returns, puzzles the will,
+Sending package 6: 691_3981,And makes us rather bear those ills we have
+Sending package 6: 692_3593,Than fly to others that we know not of?
+Sending package 6: 693_4106,Thus conscience doth make cowards of us all,
+Sending package 6: 694_3540,And thus the native hue of resolution
+Sending package 6: 695_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 6: 696_3825,And enterprises of great pith and moment
+Sending package 6: 697_4017,With this regard their currents turn awry
+Sending package 6: 698_2515,And lose the name of action.
+Sending package 6: 699_3688,To be, or not to be, that is the question:
+Sending package 7: 700_3816,Whether 'tis nobler in the mind to suffer
+Sending package 7: 701_4254,The slings and arrows of outrageous fortune,
+Sending package 7: 702_3788,Or to take arms against a sea of troubles
+Sending package 7: 703_3437,And by opposing end them. To die—to sleep,
+Sending package 7: 704_3232,No more; and by a sleep to say we end
+Sending package 7: 705_4377,The heart-ache and the thousand natural shocks
+Sending package 7: 706_3875,That flesh is heir to: 'tis a consummation
+Sending package 7: 707_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 7: 708_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 7: 709_4372,For in that sleep of death what dreams may come,
+Sending package 7: 710_4002,When we have shuffled off this mortal coil,
+Sending package 7: 711_3299,Must give us pause—there's the respect
+Sending package 7: 712_3317,That makes calamity of so long life.
+Sending package 7: 713_4427,For who would bear the whips and scorns of time,
+Sending package 7: 714_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 7: 715_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 7: 716_3639,The insolence of office, and the spurns
+Sending package 7: 717_3837,That patient merit of th'unworthy takes,
+Sending package 7: 718_3612,When he himself might his quietus make
+Sending package 7: 719_3895,With a bare bodkin? Who would fardels bear,
+Sending package 7: 720_3495,To grunt and sweat under a weary life,
+Sending package 7: 721_4078,But that the dread of something after death,
+Sending package 7: 722_4157,The undiscovere'd country, from whose bourn
+Sending package 7: 723_3769,No traveller returns, puzzles the will,
+Sending package 7: 724_3981,And makes us rather bear those ills we have
+Sending package 7: 725_3593,Than fly to others that we know not of?
+Sending package 7: 726_4106,Thus conscience doth make cowards of us all,
+Sending package 7: 727_3540,And thus the native hue of resolution
+Sending package 7: 728_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 7: 729_3825,And enterprises of great pith and moment
+Sending package 7: 730_4017,With this regard their currents turn awry
+Sending package 7: 731_2515,And lose the name of action.
+Sending package 7: 732_3688,To be, or not to be, that is the question:
+Sending package 7: 733_3816,Whether 'tis nobler in the mind to suffer
+Sending package 7: 734_4254,The slings and arrows of outrageous fortune,
+Sending package 7: 735_3788,Or to take arms against a sea of troubles
+Sending package 7: 736_3437,And by opposing end them. To die—to sleep,
+Sending package 7: 737_3232,No more; and by a sleep to say we end
+Sending package 7: 738_4377,The heart-ache and the thousand natural shocks
+Sending package 7: 739_3875,That flesh is heir to: 'tis a consummation
+Sending package 7: 740_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 7: 741_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 7: 742_4372,For in that sleep of death what dreams may come,
+Sending package 7: 743_4002,When we have shuffled off this mortal coil,
+Sending package 7: 744_3299,Must give us pause—there's the respect
+Sending package 7: 745_3317,That makes calamity of so long life.
+Sending package 7: 746_4427,For who would bear the whips and scorns of time,
+Sending package 7: 747_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 7: 748_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 7: 749_3639,The insolence of office, and the spurns
+Sending package 7: 750_3837,That patient merit of th'unworthy takes,
+Sending package 7: 751_3612,When he himself might his quietus make
+Sending package 7: 752_3895,With a bare bodkin? Who would fardels bear,
+Sending package 7: 753_3495,To grunt and sweat under a weary life,
+Sending package 7: 754_4078,But that the dread of something after death,
+Sending package 7: 755_4157,The undiscovere'd country, from whose bourn
+Sending package 7: 756_3769,No traveller returns, puzzles the will,
+Sending package 7: 757_3981,And makes us rather bear those ills we have
+Sending package 7: 758_3593,Than fly to others that we know not of?
+Sending package 7: 759_4106,Thus conscience doth make cowards of us all,
+Sending package 7: 760_3540,And thus the native hue of resolution
+Sending package 7: 761_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 7: 762_3825,And enterprises of great pith and moment
+Sending package 7: 763_4017,With this regard their currents turn awry
+Sending package 7: 764_2515,And lose the name of action.
+Sending package 7: 765_3688,To be, or not to be, that is the question:
+Sending package 7: 766_3816,Whether 'tis nobler in the mind to suffer
+Sending package 7: 767_4254,The slings and arrows of outrageous fortune,
+Sending package 7: 768_3788,Or to take arms against a sea of troubles
+Sending package 7: 769_3437,And by opposing end them. To die—to sleep,
+Sending package 7: 770_3232,No more; and by a sleep to say we end
+Sending package 7: 771_4377,The heart-ache and the thousand natural shocks
+Sending package 7: 772_3875,That flesh is heir to: 'tis a consummation
+Sending package 7: 773_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 7: 774_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 7: 775_4372,For in that sleep of death what dreams may come,
+Sending package 7: 776_4002,When we have shuffled off this mortal coil,
+Sending package 7: 777_3299,Must give us pause—there's the respect
+Sending package 7: 778_3317,That makes calamity of so long life.
+Sending package 7: 779_4427,For who would bear the whips and scorns of time,
+Sending package 7: 780_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 7: 781_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 7: 782_3639,The insolence of office, and the spurns
+Sending package 7: 783_3837,That patient merit of th'unworthy takes,
+Sending package 7: 784_3612,When he himself might his quietus make
+Sending package 7: 785_3895,With a bare bodkin? Who would fardels bear,
+Sending package 7: 786_3495,To grunt and sweat under a weary life,
+Sending package 7: 787_4078,But that the dread of something after death,
+Sending package 7: 788_4157,The undiscovere'd country, from whose bourn
+Sending package 7: 789_3769,No traveller returns, puzzles the will,
+Sending package 7: 790_3981,And makes us rather bear those ills we have
+Sending package 7: 791_3593,Than fly to others that we know not of?
+Sending package 7: 792_4106,Thus conscience doth make cowards of us all,
+Sending package 7: 793_3540,And thus the native hue of resolution
+Sending package 7: 794_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 7: 795_3825,And enterprises of great pith and moment
+Sending package 7: 796_4017,With this regard their currents turn awry
+Sending package 7: 797_2515,And lose the name of action.
+Sending package 7: 798_3688,To be, or not to be, that is the question:
+Sending package 7: 799_3816,Whether 'tis nobler in the mind to suffer
+Sending package 8: 800_4254,The slings and arrows of outrageous fortune,
+Sending package 8: 801_3788,Or to take arms against a sea of troubles
+Sending package 8: 802_3437,And by opposing end them. To die—to sleep,
+Sending package 8: 803_3232,No more; and by a sleep to say we end
+Sending package 8: 804_4377,The heart-ache and the thousand natural shocks
+Sending package 8: 805_3875,That flesh is heir to: 'tis a consummation
+Sending package 8: 806_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 8: 807_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 8: 808_4372,For in that sleep of death what dreams may come,
+Sending package 8: 809_4002,When we have shuffled off this mortal coil,
+Sending package 8: 810_3299,Must give us pause—there's the respect
+Sending package 8: 811_3317,That makes calamity of so long life.
+Sending package 8: 812_4427,For who would bear the whips and scorns of time,
+Sending package 8: 813_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 8: 814_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 8: 815_3639,The insolence of office, and the spurns
+Sending package 8: 816_3837,That patient merit of th'unworthy takes,
+Sending package 8: 817_3612,When he himself might his quietus make
+Sending package 8: 818_3895,With a bare bodkin? Who would fardels bear,
+Sending package 8: 819_3495,To grunt and sweat under a weary life,
+Sending package 8: 820_4078,But that the dread of something after death,
+Sending package 8: 821_4157,The undiscovere'd country, from whose bourn
+Sending package 8: 822_3769,No traveller returns, puzzles the will,
+Sending package 8: 823_3981,And makes us rather bear those ills we have
+Sending package 8: 824_3593,Than fly to others that we know not of?
+Sending package 8: 825_4106,Thus conscience doth make cowards of us all,
+Sending package 8: 826_3540,And thus the native hue of resolution
+Sending package 8: 827_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 8: 828_3825,And enterprises of great pith and moment
+Sending package 8: 829_4017,With this regard their currents turn awry
+Sending package 8: 830_2515,And lose the name of action.
+Sending package 8: 831_3688,To be, or not to be, that is the question:
+Sending package 8: 832_3816,Whether 'tis nobler in the mind to suffer
+Sending package 8: 833_4254,The slings and arrows of outrageous fortune,
+Sending package 8: 834_3788,Or to take arms against a sea of troubles
+Sending package 8: 835_3437,And by opposing end them. To die—to sleep,
+Sending package 8: 836_3232,No more; and by a sleep to say we end
+Sending package 8: 837_4377,The heart-ache and the thousand natural shocks
+Sending package 8: 838_3875,That flesh is heir to: 'tis a consummation
+Sending package 8: 839_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 8: 840_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 8: 841_4372,For in that sleep of death what dreams may come,
+Sending package 8: 842_4002,When we have shuffled off this mortal coil,
+Sending package 8: 843_3299,Must give us pause—there's the respect
+Sending package 8: 844_3317,That makes calamity of so long life.
+Sending package 8: 845_4427,For who would bear the whips and scorns of time,
+Sending package 8: 846_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 8: 847_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 8: 848_3639,The insolence of office, and the spurns
+Sending package 8: 849_3837,That patient merit of th'unworthy takes,
+Sending package 8: 850_3612,When he himself might his quietus make
+Sending package 8: 851_3895,With a bare bodkin? Who would fardels bear,
+Sending package 8: 852_3495,To grunt and sweat under a weary life,
+Sending package 8: 853_4078,But that the dread of something after death,
+Sending package 8: 854_4157,The undiscovere'd country, from whose bourn
+Sending package 8: 855_3769,No traveller returns, puzzles the will,
+Sending package 8: 856_3981,And makes us rather bear those ills we have
+Sending package 8: 857_3593,Than fly to others that we know not of?
+Sending package 8: 858_4106,Thus conscience doth make cowards of us all,
+Sending package 8: 859_3540,And thus the native hue of resolution
+Sending package 8: 860_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 8: 861_3825,And enterprises of great pith and moment
+Sending package 8: 862_4017,With this regard their currents turn awry
+Sending package 8: 863_2515,And lose the name of action.
+Sending package 8: 864_3688,To be, or not to be, that is the question:
+Sending package 8: 865_3816,Whether 'tis nobler in the mind to suffer
+Sending package 8: 866_4254,The slings and arrows of outrageous fortune,
+Sending package 8: 867_3788,Or to take arms against a sea of troubles
+Sending package 8: 868_3437,And by opposing end them. To die—to sleep,
+Sending package 8: 869_3232,No more; and by a sleep to say we end
+Sending package 8: 870_4377,The heart-ache and the thousand natural shocks
+Sending package 8: 871_3875,That flesh is heir to: 'tis a consummation
+Sending package 8: 872_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 8: 873_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 8: 874_4372,For in that sleep of death what dreams may come,
+Sending package 8: 875_4002,When we have shuffled off this mortal coil,
+Sending package 8: 876_3299,Must give us pause—there's the respect
+Sending package 8: 877_3317,That makes calamity of so long life.
+Sending package 8: 878_4427,For who would bear the whips and scorns of time,
+Sending package 8: 879_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 8: 880_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 8: 881_3639,The insolence of office, and the spurns
+Sending package 8: 882_3837,That patient merit of th'unworthy takes,
+Sending package 8: 883_3612,When he himself might his quietus make
+Sending package 8: 884_3895,With a bare bodkin? Who would fardels bear,
+Sending package 8: 885_3495,To grunt and sweat under a weary life,
+Sending package 8: 886_4078,But that the dread of something after death,
+Sending package 8: 887_4157,The undiscovere'd country, from whose bourn
+Sending package 8: 888_3769,No traveller returns, puzzles the will,
+Sending package 8: 889_3981,And makes us rather bear those ills we have
+Sending package 8: 890_3593,Than fly to others that we know not of?
+Sending package 8: 891_4106,Thus conscience doth make cowards of us all,
+Sending package 8: 892_3540,And thus the native hue of resolution
+Sending package 8: 893_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 8: 894_3825,And enterprises of great pith and moment
+Sending package 8: 895_4017,With this regard their currents turn awry
+Sending package 8: 896_2515,And lose the name of action.
+Sending package 8: 897_3688,To be, or not to be, that is the question:
+Sending package 8: 898_3816,Whether 'tis nobler in the mind to suffer
+Sending package 8: 899_4254,The slings and arrows of outrageous fortune,
+Sending package 9: 900_3788,Or to take arms against a sea of troubles
+Sending package 9: 901_3437,And by opposing end them. To die—to sleep,
+Sending package 9: 902_3232,No more; and by a sleep to say we end
+Sending package 9: 903_4377,The heart-ache and the thousand natural shocks
+Sending package 9: 904_3875,That flesh is heir to: 'tis a consummation
+Sending package 9: 905_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 9: 906_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 9: 907_4372,For in that sleep of death what dreams may come,
+Sending package 9: 908_4002,When we have shuffled off this mortal coil,
+Sending package 9: 909_3299,Must give us pause—there's the respect
+Sending package 9: 910_3317,That makes calamity of so long life.
+Sending package 9: 911_4427,For who would bear the whips and scorns of time,
+Sending package 9: 912_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 9: 913_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 9: 914_3639,The insolence of office, and the spurns
+Sending package 9: 915_3837,That patient merit of th'unworthy takes,
+Sending package 9: 916_3612,When he himself might his quietus make
+Sending package 9: 917_3895,With a bare bodkin? Who would fardels bear,
+Sending package 9: 918_3495,To grunt and sweat under a weary life,
+Sending package 9: 919_4078,But that the dread of something after death,
+Sending package 9: 920_4157,The undiscovere'd country, from whose bourn
+Sending package 9: 921_3769,No traveller returns, puzzles the will,
+Sending package 9: 922_3981,And makes us rather bear those ills we have
+Sending package 9: 923_3593,Than fly to others that we know not of?
+Sending package 9: 924_4106,Thus conscience doth make cowards of us all,
+Sending package 9: 925_3540,And thus the native hue of resolution
+Sending package 9: 926_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 9: 927_3825,And enterprises of great pith and moment
+Sending package 9: 928_4017,With this regard their currents turn awry
+Sending package 9: 929_2515,And lose the name of action.
+Sending package 9: 930_3688,To be, or not to be, that is the question:
+Sending package 9: 931_3816,Whether 'tis nobler in the mind to suffer
+Sending package 9: 932_4254,The slings and arrows of outrageous fortune,
+Sending package 9: 933_3788,Or to take arms against a sea of troubles
+Sending package 9: 934_3437,And by opposing end them. To die—to sleep,
+Sending package 9: 935_3232,No more; and by a sleep to say we end
+Sending package 9: 936_4377,The heart-ache and the thousand natural shocks
+Sending package 9: 937_3875,That flesh is heir to: 'tis a consummation
+Sending package 9: 938_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 9: 939_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 9: 940_4372,For in that sleep of death what dreams may come,
+Sending package 9: 941_4002,When we have shuffled off this mortal coil,
+Sending package 9: 942_3299,Must give us pause—there's the respect
+Sending package 9: 943_3317,That makes calamity of so long life.
+Sending package 9: 944_4427,For who would bear the whips and scorns of time,
+Sending package 9: 945_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 9: 946_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 9: 947_3639,The insolence of office, and the spurns
+Sending package 9: 948_3837,That patient merit of th'unworthy takes,
+Sending package 9: 949_3612,When he himself might his quietus make
+Sending package 9: 950_3895,With a bare bodkin? Who would fardels bear,
+Sending package 9: 951_3495,To grunt and sweat under a weary life,
+Sending package 9: 952_4078,But that the dread of something after death,
+Sending package 9: 953_4157,The undiscovere'd country, from whose bourn
+Sending package 9: 954_3769,No traveller returns, puzzles the will,
+Sending package 9: 955_3981,And makes us rather bear those ills we have
+Sending package 9: 956_3593,Than fly to others that we know not of?
+Sending package 9: 957_4106,Thus conscience doth make cowards of us all,
+Sending package 9: 958_3540,And thus the native hue of resolution
+Sending package 9: 959_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 9: 960_3825,And enterprises of great pith and moment
+Sending package 9: 961_4017,With this regard their currents turn awry
+Sending package 9: 962_2515,And lose the name of action.
+Sending package 9: 963_10,
+Sending package 9: 964_3688,To be, or not to be, that is the question:
+Sending package 9: 965_3816,Whether 'tis nobler in the mind to suffer
+Sending package 9: 966_4254,The slings and arrows of outrageous fortune,
+Sending package 9: 967_3788,Or to take arms against a sea of troubles
+Sending package 9: 968_3437,And by opposing end them. To die—to sleep,
+Sending package 9: 969_3232,No more; and by a sleep to say we end
+Sending package 9: 970_4377,The heart-ache and the thousand natural shocks
+Sending package 9: 971_3875,That flesh is heir to: 'tis a consummation
+Sending package 9: 972_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 9: 973_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 9: 974_4372,For in that sleep of death what dreams may come,
+Sending package 9: 975_4002,When we have shuffled off this mortal coil,
+Sending package 9: 976_3299,Must give us pause—there's the respect
+Sending package 9: 977_3317,That makes calamity of so long life.
+Sending package 9: 978_4427,For who would bear the whips and scorns of time,
+Sending package 9: 979_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 9: 980_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 9: 981_3639,The insolence of office, and the spurns
+Sending package 9: 982_3837,That patient merit of th'unworthy takes,
+Sending package 9: 983_3612,When he himself might his quietus make
+Sending package 9: 984_3895,With a bare bodkin? Who would fardels bear,
+Sending package 9: 985_3495,To grunt and sweat under a weary life,
+Sending package 9: 986_4078,But that the dread of something after death,
+Sending package 9: 987_4157,The undiscovere'd country, from whose bourn
+Sending package 9: 988_3769,No traveller returns, puzzles the will,
+Sending package 9: 989_3981,And makes us rather bear those ills we have
+Sending package 9: 990_3593,Than fly to others that we know not of?
+Sending package 9: 991_4106,Thus conscience doth make cowards of us all,
+Sending package 9: 992_3540,And thus the native hue of resolution
+Sending package 9: 993_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 9: 994_3825,And enterprises of great pith and moment
+Sending package 9: 995_4017,With this regard their currents turn awry
+Sending package 9: 996_2515,And lose the name of action.
+Sending package 9: 997_10,
+Sending package 9: 998_10,
+Sending package 9: 999_3688,To be, or not to be, that is the question:
+Sending package 1: 1000_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1001_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1002_3788,Or to take arms against a sea of troubles
+Sending package 1: 1003_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1004_3232,No more; and by a sleep to say we end
+Sending package 1: 1005_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1006_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1007_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1008_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1009_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1010_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1011_3299,Must give us pause—there's the respect
+Sending package 1: 1012_3317,That makes calamity of so long life.
+Sending package 1: 1013_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1014_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1015_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1016_3639,The insolence of office, and the spurns
+Sending package 1: 1017_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1018_3612,When he himself might his quietus make
+Sending package 1: 1019_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1020_3495,To grunt and sweat under a weary life,
+Sending package 1: 1021_4078,But that the dread of something after death,
+Sending package 1: 1022_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1023_3769,No traveller returns, puzzles the will,
+Sending package 1: 1024_3981,And makes us rather bear those ills we have
+Sending package 1: 1025_3593,Than fly to others that we know not of?
+Sending package 1: 1026_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1027_3540,And thus the native hue of resolution
+Sending package 1: 1028_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1029_3825,And enterprises of great pith and moment
+Sending package 1: 1030_4017,With this regard their currents turn awry
+Sending package 1: 1031_2515,And lose the name of action.
+Sending package 1: 1032_3688,To be, or not to be, that is the question:
+Sending package 1: 1033_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1034_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1035_3788,Or to take arms against a sea of troubles
+Sending package 1: 1036_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1037_3232,No more; and by a sleep to say we end
+Sending package 1: 1038_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1039_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1040_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1041_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1042_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1043_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1044_3299,Must give us pause—there's the respect
+Sending package 1: 1045_3317,That makes calamity of so long life.
+Sending package 1: 1046_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1047_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1048_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1049_3639,The insolence of office, and the spurns
+Sending package 1: 1050_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1051_3612,When he himself might his quietus make
+Sending package 1: 1052_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1053_3495,To grunt and sweat under a weary life,
+Sending package 1: 1054_4078,But that the dread of something after death,
+Sending package 1: 1055_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1056_3769,No traveller returns, puzzles the will,
+Sending package 1: 1057_3981,And makes us rather bear those ills we have
+Sending package 1: 1058_3593,Than fly to others that we know not of?
+Sending package 1: 1059_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1060_3540,And thus the native hue of resolution
+Sending package 1: 1061_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1062_3825,And enterprises of great pith and moment
+Sending package 1: 1063_4017,With this regard their currents turn awry
+Sending package 1: 1064_2515,And lose the name of action.
+Sending package 1: 1065_3688,To be, or not to be, that is the question:
+Sending package 1: 1066_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1067_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1068_3788,Or to take arms against a sea of troubles
+Sending package 1: 1069_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1070_3232,No more; and by a sleep to say we end
+Sending package 1: 1071_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1072_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1073_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1074_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1075_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1076_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1077_3299,Must give us pause—there's the respect
+Sending package 1: 1078_3317,That makes calamity of so long life.
+Sending package 1: 1079_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1080_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1081_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1082_3639,The insolence of office, and the spurns
+Sending package 1: 1083_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1084_3612,When he himself might his quietus make
+Sending package 1: 1085_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1086_3495,To grunt and sweat under a weary life,
+Sending package 1: 1087_4078,But that the dread of something after death,
+Sending package 1: 1088_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1089_3769,No traveller returns, puzzles the will,
+Sending package 1: 1090_3981,And makes us rather bear those ills we have
+Sending package 1: 1091_3593,Than fly to others that we know not of?
+Sending package 1: 1092_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1093_3540,And thus the native hue of resolution
+Sending package 1: 1094_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1095_3825,And enterprises of great pith and moment
+Sending package 1: 1096_4017,With this regard their currents turn awry
+Sending package 1: 1097_2515,And lose the name of action.
+Sending package 1: 1098_3688,To be, or not to be, that is the question:
+Sending package 1: 1099_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1100_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1101_3788,Or to take arms against a sea of troubles
+Sending package 1: 1102_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1103_3232,No more; and by a sleep to say we end
+Sending package 1: 1104_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1105_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1106_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1107_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1108_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1109_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1110_3299,Must give us pause—there's the respect
+Sending package 1: 1111_3317,That makes calamity of so long life.
+Sending package 1: 1112_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1113_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1114_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1115_3639,The insolence of office, and the spurns
+Sending package 1: 1116_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1117_3612,When he himself might his quietus make
+Sending package 1: 1118_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1119_3495,To grunt and sweat under a weary life,
+Sending package 1: 1120_4078,But that the dread of something after death,
+Sending package 1: 1121_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1122_3769,No traveller returns, puzzles the will,
+Sending package 1: 1123_3981,And makes us rather bear those ills we have
+Sending package 1: 1124_3593,Than fly to others that we know not of?
+Sending package 1: 1125_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1126_3540,And thus the native hue of resolution
+Sending package 1: 1127_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1128_3825,And enterprises of great pith and moment
+Sending package 1: 1129_4017,With this regard their currents turn awry
+Sending package 1: 1130_2515,And lose the name of action.
+Sending package 1: 1131_3688,To be, or not to be, that is the question:
+Sending package 1: 1132_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1133_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1134_3788,Or to take arms against a sea of troubles
+Sending package 1: 1135_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1136_3232,No more; and by a sleep to say we end
+Sending package 1: 1137_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1138_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1139_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1140_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1141_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1142_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1143_3299,Must give us pause—there's the respect
+Sending package 1: 1144_3317,That makes calamity of so long life.
+Sending package 1: 1145_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1146_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1147_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1148_3639,The insolence of office, and the spurns
+Sending package 1: 1149_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1150_3612,When he himself might his quietus make
+Sending package 1: 1151_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1152_3495,To grunt and sweat under a weary life,
+Sending package 1: 1153_4078,But that the dread of something after death,
+Sending package 1: 1154_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1155_3769,No traveller returns, puzzles the will,
+Sending package 1: 1156_3981,And makes us rather bear those ills we have
+Sending package 1: 1157_3593,Than fly to others that we know not of?
+Sending package 1: 1158_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1159_3540,And thus the native hue of resolution
+Sending package 1: 1160_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1161_3825,And enterprises of great pith and moment
+Sending package 1: 1162_4017,With this regard their currents turn awry
+Sending package 1: 1163_2515,And lose the name of action.
+Sending package 1: 1164_3688,To be, or not to be, that is the question:
+Sending package 1: 1165_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1166_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1167_3788,Or to take arms against a sea of troubles
+Sending package 1: 1168_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1169_3232,No more; and by a sleep to say we end
+Sending package 1: 1170_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1171_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1172_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1173_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1174_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1175_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1176_3299,Must give us pause—there's the respect
+Sending package 1: 1177_3317,That makes calamity of so long life.
+Sending package 1: 1178_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1179_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1180_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1181_3639,The insolence of office, and the spurns
+Sending package 1: 1182_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1183_3612,When he himself might his quietus make
+Sending package 1: 1184_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1185_3495,To grunt and sweat under a weary life,
+Sending package 1: 1186_4078,But that the dread of something after death,
+Sending package 1: 1187_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1188_3769,No traveller returns, puzzles the will,
+Sending package 1: 1189_3981,And makes us rather bear those ills we have
+Sending package 1: 1190_3593,Than fly to others that we know not of?
+Sending package 1: 1191_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1192_3540,And thus the native hue of resolution
+Sending package 1: 1193_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1194_3825,And enterprises of great pith and moment
+Sending package 1: 1195_4017,With this regard their currents turn awry
+Sending package 1: 1196_2515,And lose the name of action.
+Sending package 1: 1197_3688,To be, or not to be, that is the question:
+Sending package 1: 1198_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1199_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1200_3788,Or to take arms against a sea of troubles
+Sending package 1: 1201_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1202_3232,No more; and by a sleep to say we end
+Sending package 1: 1203_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1204_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1205_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1206_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1207_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1208_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1209_3299,Must give us pause—there's the respect
+Sending package 1: 1210_3317,That makes calamity of so long life.
+Sending package 1: 1211_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1212_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1213_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1214_3639,The insolence of office, and the spurns
+Sending package 1: 1215_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1216_3612,When he himself might his quietus make
+Sending package 1: 1217_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1218_3495,To grunt and sweat under a weary life,
+Sending package 1: 1219_4078,But that the dread of something after death,
+Sending package 1: 1220_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1221_3769,No traveller returns, puzzles the will,
+Sending package 1: 1222_3981,And makes us rather bear those ills we have
+Sending package 1: 1223_3593,Than fly to others that we know not of?
+Sending package 1: 1224_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1225_3540,And thus the native hue of resolution
+Sending package 1: 1226_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1227_3825,And enterprises of great pith and moment
+Sending package 1: 1228_4017,With this regard their currents turn awry
+Sending package 1: 1229_2515,And lose the name of action.
+Sending package 1: 1230_3688,To be, or not to be, that is the question:
+Sending package 1: 1231_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1232_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1233_3788,Or to take arms against a sea of troubles
+Sending package 1: 1234_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1235_3232,No more; and by a sleep to say we end
+Sending package 1: 1236_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1237_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1238_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1239_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1240_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1241_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1242_3299,Must give us pause—there's the respect
+Sending package 1: 1243_3317,That makes calamity of so long life.
+Sending package 1: 1244_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1245_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1246_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1247_3639,The insolence of office, and the spurns
+Sending package 1: 1248_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1249_3612,When he himself might his quietus make
+Sending package 1: 1250_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1251_3495,To grunt and sweat under a weary life,
+Sending package 1: 1252_4078,But that the dread of something after death,
+Sending package 1: 1253_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1254_3769,No traveller returns, puzzles the will,
+Sending package 1: 1255_3981,And makes us rather bear those ills we have
+Sending package 1: 1256_3593,Than fly to others that we know not of?
+Sending package 1: 1257_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1258_3540,And thus the native hue of resolution
+Sending package 1: 1259_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1260_3825,And enterprises of great pith and moment
+Sending package 1: 1261_4017,With this regard their currents turn awry
+Sending package 1: 1262_2515,And lose the name of action.
+Sending package 1: 1263_3688,To be, or not to be, that is the question:
+Sending package 1: 1264_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1265_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1266_3788,Or to take arms against a sea of troubles
+Sending package 1: 1267_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1268_3232,No more; and by a sleep to say we end
+Sending package 1: 1269_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1270_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1271_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1272_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1273_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1274_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1275_3299,Must give us pause—there's the respect
+Sending package 1: 1276_3317,That makes calamity of so long life.
+Sending package 1: 1277_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1278_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1279_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1280_3639,The insolence of office, and the spurns
+Sending package 1: 1281_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1282_3612,When he himself might his quietus make
+Sending package 1: 1283_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1284_3495,To grunt and sweat under a weary life,
+Sending package 1: 1285_4078,But that the dread of something after death,
+Sending package 1: 1286_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1287_3769,No traveller returns, puzzles the will,
+Sending package 1: 1288_3981,And makes us rather bear those ills we have
+Sending package 1: 1289_3593,Than fly to others that we know not of?
+Sending package 1: 1290_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1291_3540,And thus the native hue of resolution
+Sending package 1: 1292_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1293_3825,And enterprises of great pith and moment
+Sending package 1: 1294_4017,With this regard their currents turn awry
+Sending package 1: 1295_2515,And lose the name of action.
+Sending package 1: 1296_3688,To be, or not to be, that is the question:
+Sending package 1: 1297_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1298_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1299_3788,Or to take arms against a sea of troubles
+Sending package 1: 1300_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1301_3232,No more; and by a sleep to say we end
+Sending package 1: 1302_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1303_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1304_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1305_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1306_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1307_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1308_3299,Must give us pause—there's the respect
+Sending package 1: 1309_3317,That makes calamity of so long life.
+Sending package 1: 1310_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1311_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1312_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1313_3639,The insolence of office, and the spurns
+Sending package 1: 1314_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1315_3612,When he himself might his quietus make
+Sending package 1: 1316_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1317_3495,To grunt and sweat under a weary life,
+Sending package 1: 1318_4078,But that the dread of something after death,
+Sending package 1: 1319_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1320_3769,No traveller returns, puzzles the will,
+Sending package 1: 1321_3981,And makes us rather bear those ills we have
+Sending package 1: 1322_3593,Than fly to others that we know not of?
+Sending package 1: 1323_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1324_3540,And thus the native hue of resolution
+Sending package 1: 1325_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1326_3825,And enterprises of great pith and moment
+Sending package 1: 1327_4017,With this regard their currents turn awry
+Sending package 1: 1328_2515,And lose the name of action.
+Sending package 1: 1329_3688,To be, or not to be, that is the question:
+Sending package 1: 1330_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1331_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1332_3788,Or to take arms against a sea of troubles
+Sending package 1: 1333_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1334_3232,No more; and by a sleep to say we end
+Sending package 1: 1335_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1336_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1337_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1338_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1339_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1340_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1341_3299,Must give us pause—there's the respect
+Sending package 1: 1342_3317,That makes calamity of so long life.
+Sending package 1: 1343_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1344_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1345_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1346_3639,The insolence of office, and the spurns
+Sending package 1: 1347_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1348_3612,When he himself might his quietus make
+Sending package 1: 1349_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1350_3495,To grunt and sweat under a weary life,
+Sending package 1: 1351_4078,But that the dread of something after death,
+Sending package 1: 1352_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1353_3769,No traveller returns, puzzles the will,
+Sending package 1: 1354_3981,And makes us rather bear those ills we have
+Sending package 1: 1355_3593,Than fly to others that we know not of?
+Sending package 1: 1356_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1357_3540,And thus the native hue of resolution
+Sending package 1: 1358_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1359_3825,And enterprises of great pith and moment
+Sending package 1: 1360_4017,With this regard their currents turn awry
+Sending package 1: 1361_2515,And lose the name of action.
+Sending package 1: 1362_3688,To be, or not to be, that is the question:
+Sending package 1: 1363_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1364_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1365_3788,Or to take arms against a sea of troubles
+Sending package 1: 1366_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1367_3232,No more; and by a sleep to say we end
+Sending package 1: 1368_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1369_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1370_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1371_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1372_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1373_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1374_3299,Must give us pause—there's the respect
+Sending package 1: 1375_3317,That makes calamity of so long life.
+Sending package 1: 1376_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1377_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1378_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1379_3639,The insolence of office, and the spurns
+Sending package 1: 1380_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1381_3612,When he himself might his quietus make
+Sending package 1: 1382_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1383_3495,To grunt and sweat under a weary life,
+Sending package 1: 1384_4078,But that the dread of something after death,
+Sending package 1: 1385_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1386_3769,No traveller returns, puzzles the will,
+Sending package 1: 1387_3981,And makes us rather bear those ills we have
+Sending package 1: 1388_3593,Than fly to others that we know not of?
+Sending package 1: 1389_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1390_3540,And thus the native hue of resolution
+Sending package 1: 1391_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1392_3825,And enterprises of great pith and moment
+Sending package 1: 1393_4017,With this regard their currents turn awry
+Sending package 1: 1394_2515,And lose the name of action.
+Sending package 1: 1395_3688,To be, or not to be, that is the question:
+Sending package 1: 1396_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1397_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1398_3788,Or to take arms against a sea of troubles
+Sending package 1: 1399_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1400_3232,No more; and by a sleep to say we end
+Sending package 1: 1401_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1402_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1403_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1404_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1405_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1406_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1407_3299,Must give us pause—there's the respect
+Sending package 1: 1408_3317,That makes calamity of so long life.
+Sending package 1: 1409_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1410_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1411_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1412_3639,The insolence of office, and the spurns
+Sending package 1: 1413_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1414_3612,When he himself might his quietus make
+Sending package 1: 1415_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1416_3495,To grunt and sweat under a weary life,
+Sending package 1: 1417_4078,But that the dread of something after death,
+Sending package 1: 1418_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1419_3769,No traveller returns, puzzles the will,
+Sending package 1: 1420_3981,And makes us rather bear those ills we have
+Sending package 1: 1421_3593,Than fly to others that we know not of?
+Sending package 1: 1422_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1423_3540,And thus the native hue of resolution
+Sending package 1: 1424_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1425_3825,And enterprises of great pith and moment
+Sending package 1: 1426_4017,With this regard their currents turn awry
+Sending package 1: 1427_2515,And lose the name of action.
+Sending package 1: 1428_10,
+Sending package 1: 1429_3688,To be, or not to be, that is the question:
+Sending package 1: 1430_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1431_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1432_3788,Or to take arms against a sea of troubles
+Sending package 1: 1433_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1434_3232,No more; and by a sleep to say we end
+Sending package 1: 1435_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1436_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1437_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1438_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1439_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1440_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1441_3299,Must give us pause—there's the respect
+Sending package 1: 1442_3317,That makes calamity of so long life.
+Sending package 1: 1443_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1444_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1445_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1446_3639,The insolence of office, and the spurns
+Sending package 1: 1447_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1448_3612,When he himself might his quietus make
+Sending package 1: 1449_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1450_3495,To grunt and sweat under a weary life,
+Sending package 1: 1451_4078,But that the dread of something after death,
+Sending package 1: 1452_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1453_3769,No traveller returns, puzzles the will,
+Sending package 1: 1454_3981,And makes us rather bear those ills we have
+Sending package 1: 1455_3593,Than fly to others that we know not of?
+Sending package 1: 1456_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1457_3540,And thus the native hue of resolution
+Sending package 1: 1458_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1459_3825,And enterprises of great pith and moment
+Sending package 1: 1460_4017,With this regard their currents turn awry
+Sending package 1: 1461_2515,And lose the name of action.
+Sending package 1: 1462_10,
+Sending package 1: 1463_10,
+Sending package 1: 1464_3688,To be, or not to be, that is the question:
+Sending package 1: 1465_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1466_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1467_3788,Or to take arms against a sea of troubles
+Sending package 1: 1468_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1469_3232,No more; and by a sleep to say we end
+Sending package 1: 1470_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1471_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1472_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1473_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1474_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1475_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1476_3299,Must give us pause—there's the respect
+Sending package 1: 1477_3317,That makes calamity of so long life.
+Sending package 1: 1478_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1479_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1480_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1481_3639,The insolence of office, and the spurns
+Sending package 1: 1482_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1483_3612,When he himself might his quietus make
+Sending package 1: 1484_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1485_3495,To grunt and sweat under a weary life,
+Sending package 1: 1486_4078,But that the dread of something after death,
+Sending package 1: 1487_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1488_3769,No traveller returns, puzzles the will,
+Sending package 1: 1489_3981,And makes us rather bear those ills we have
+Sending package 1: 1490_3593,Than fly to others that we know not of?
+Sending package 1: 1491_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1492_3540,And thus the native hue of resolution
+Sending package 1: 1493_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1494_3825,And enterprises of great pith and moment
+Sending package 1: 1495_4017,With this regard their currents turn awry
+Sending package 1: 1496_2515,And lose the name of action.
+Sending package 1: 1497_3688,To be, or not to be, that is the question:
+Sending package 1: 1498_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1499_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1500_3788,Or to take arms against a sea of troubles
+Sending package 1: 1501_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1502_3232,No more; and by a sleep to say we end
+Sending package 1: 1503_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1504_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1505_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1506_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1507_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1508_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1509_3299,Must give us pause—there's the respect
+Sending package 1: 1510_3317,That makes calamity of so long life.
+Sending package 1: 1511_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1512_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1513_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1514_3639,The insolence of office, and the spurns
+Sending package 1: 1515_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1516_3612,When he himself might his quietus make
+Sending package 1: 1517_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1518_3495,To grunt and sweat under a weary life,
+Sending package 1: 1519_4078,But that the dread of something after death,
+Sending package 1: 1520_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1521_3769,No traveller returns, puzzles the will,
+Sending package 1: 1522_3981,And makes us rather bear those ills we have
+Sending package 1: 1523_3593,Than fly to others that we know not of?
+Sending package 1: 1524_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1525_3540,And thus the native hue of resolution
+Sending package 1: 1526_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1527_3825,And enterprises of great pith and moment
+Sending package 1: 1528_4017,With this regard their currents turn awry
+Sending package 1: 1529_2515,And lose the name of action.
+Sending package 1: 1530_3688,To be, or not to be, that is the question:
+Sending package 1: 1531_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1532_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1533_3788,Or to take arms against a sea of troubles
+Sending package 1: 1534_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1535_3232,No more; and by a sleep to say we end
+Sending package 1: 1536_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1537_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1538_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1539_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1540_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1541_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1542_3299,Must give us pause—there's the respect
+Sending package 1: 1543_3317,That makes calamity of so long life.
+Sending package 1: 1544_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1545_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1546_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1547_3639,The insolence of office, and the spurns
+Sending package 1: 1548_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1549_3612,When he himself might his quietus make
+Sending package 1: 1550_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1551_3495,To grunt and sweat under a weary life,
+Sending package 1: 1552_4078,But that the dread of something after death,
+Sending package 1: 1553_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1554_3769,No traveller returns, puzzles the will,
+Sending package 1: 1555_3981,And makes us rather bear those ills we have
+Sending package 1: 1556_3593,Than fly to others that we know not of?
+Sending package 1: 1557_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1558_3540,And thus the native hue of resolution
+Sending package 1: 1559_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1560_3825,And enterprises of great pith and moment
+Sending package 1: 1561_4017,With this regard their currents turn awry
+Sending package 1: 1562_2515,And lose the name of action.
+Sending package 1: 1563_3688,To be, or not to be, that is the question:
+Sending package 1: 1564_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1565_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1566_3788,Or to take arms against a sea of troubles
+Sending package 1: 1567_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1568_3232,No more; and by a sleep to say we end
+Sending package 1: 1569_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1570_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1571_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1572_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1573_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1574_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1575_3299,Must give us pause—there's the respect
+Sending package 1: 1576_3317,That makes calamity of so long life.
+Sending package 1: 1577_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1578_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1579_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1580_3639,The insolence of office, and the spurns
+Sending package 1: 1581_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1582_3612,When he himself might his quietus make
+Sending package 1: 1583_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1584_3495,To grunt and sweat under a weary life,
+Sending package 1: 1585_4078,But that the dread of something after death,
+Sending package 1: 1586_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1587_3769,No traveller returns, puzzles the will,
+Sending package 1: 1588_3981,And makes us rather bear those ills we have
+Sending package 1: 1589_3593,Than fly to others that we know not of?
+Sending package 1: 1590_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1591_3540,And thus the native hue of resolution
+Sending package 1: 1592_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1593_3825,And enterprises of great pith and moment
+Sending package 1: 1594_4017,With this regard their currents turn awry
+Sending package 1: 1595_2515,And lose the name of action.
+Sending package 1: 1596_3688,To be, or not to be, that is the question:
+Sending package 1: 1597_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1598_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1599_3788,Or to take arms against a sea of troubles
+Sending package 1: 1600_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1601_3232,No more; and by a sleep to say we end
+Sending package 1: 1602_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1603_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1604_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1605_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1606_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1607_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1608_3299,Must give us pause—there's the respect
+Sending package 1: 1609_3317,That makes calamity of so long life.
+Sending package 1: 1610_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1611_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1612_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1613_3639,The insolence of office, and the spurns
+Sending package 1: 1614_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1615_3612,When he himself might his quietus make
+Sending package 1: 1616_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1617_3495,To grunt and sweat under a weary life,
+Sending package 1: 1618_4078,But that the dread of something after death,
+Sending package 1: 1619_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1620_3769,No traveller returns, puzzles the will,
+Sending package 1: 1621_3981,And makes us rather bear those ills we have
+Sending package 1: 1622_3593,Than fly to others that we know not of?
+Sending package 1: 1623_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1624_3540,And thus the native hue of resolution
+Sending package 1: 1625_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1626_3825,And enterprises of great pith and moment
+Sending package 1: 1627_4017,With this regard their currents turn awry
+Sending package 1: 1628_2515,And lose the name of action.
+Sending package 1: 1629_3688,To be, or not to be, that is the question:
+Sending package 1: 1630_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1631_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1632_3788,Or to take arms against a sea of troubles
+Sending package 1: 1633_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1634_3232,No more; and by a sleep to say we end
+Sending package 1: 1635_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1636_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1637_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1638_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1639_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1640_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1641_3299,Must give us pause—there's the respect
+Sending package 1: 1642_3317,That makes calamity of so long life.
+Sending package 1: 1643_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1644_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1645_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1646_3639,The insolence of office, and the spurns
+Sending package 1: 1647_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1648_3612,When he himself might his quietus make
+Sending package 1: 1649_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1650_3495,To grunt and sweat under a weary life,
+Sending package 1: 1651_4078,But that the dread of something after death,
+Sending package 1: 1652_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1653_3769,No traveller returns, puzzles the will,
+Sending package 1: 1654_3981,And makes us rather bear those ills we have
+Sending package 1: 1655_3593,Than fly to others that we know not of?
+Sending package 1: 1656_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1657_3540,And thus the native hue of resolution
+Sending package 1: 1658_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1659_3825,And enterprises of great pith and moment
+Sending package 1: 1660_4017,With this regard their currents turn awry
+Sending package 1: 1661_2515,And lose the name of action.
+Sending package 1: 1662_3688,To be, or not to be, that is the question:
+Sending package 1: 1663_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1664_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1665_3788,Or to take arms against a sea of troubles
+Sending package 1: 1666_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1667_3232,No more; and by a sleep to say we end
+Sending package 1: 1668_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1669_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1670_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1671_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1672_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1673_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1674_3299,Must give us pause—there's the respect
+Sending package 1: 1675_3317,That makes calamity of so long life.
+Sending package 1: 1676_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1677_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1678_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1679_3639,The insolence of office, and the spurns
+Sending package 1: 1680_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1681_3612,When he himself might his quietus make
+Sending package 1: 1682_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1683_3495,To grunt and sweat under a weary life,
+Sending package 1: 1684_4078,But that the dread of something after death,
+Sending package 1: 1685_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1686_3769,No traveller returns, puzzles the will,
+Sending package 1: 1687_3981,And makes us rather bear those ills we have
+Sending package 1: 1688_3593,Than fly to others that we know not of?
+Sending package 1: 1689_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1690_3540,And thus the native hue of resolution
+Sending package 1: 1691_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1692_3825,And enterprises of great pith and moment
+Sending package 1: 1693_4017,With this regard their currents turn awry
+Sending package 1: 1694_2515,And lose the name of action.
+Sending package 1: 1695_3688,To be, or not to be, that is the question:
+Sending package 1: 1696_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1697_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1698_3788,Or to take arms against a sea of troubles
+Sending package 1: 1699_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1700_3232,No more; and by a sleep to say we end
+Sending package 1: 1701_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1702_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1703_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1704_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1705_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1706_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1707_3299,Must give us pause—there's the respect
+Sending package 1: 1708_3317,That makes calamity of so long life.
+Sending package 1: 1709_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1710_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1711_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1712_3639,The insolence of office, and the spurns
+Sending package 1: 1713_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1714_3612,When he himself might his quietus make
+Sending package 1: 1715_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1716_3495,To grunt and sweat under a weary life,
+Sending package 1: 1717_4078,But that the dread of something after death,
+Sending package 1: 1718_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1719_3769,No traveller returns, puzzles the will,
+Sending package 1: 1720_3981,And makes us rather bear those ills we have
+Sending package 1: 1721_3593,Than fly to others that we know not of?
+Sending package 1: 1722_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1723_3540,And thus the native hue of resolution
+Sending package 1: 1724_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1725_3825,And enterprises of great pith and moment
+Sending package 1: 1726_4017,With this regard their currents turn awry
+Sending package 1: 1727_2515,And lose the name of action.
+Sending package 1: 1728_3688,To be, or not to be, that is the question:
+Sending package 1: 1729_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1730_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1731_3788,Or to take arms against a sea of troubles
+Sending package 1: 1732_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1733_3232,No more; and by a sleep to say we end
+Sending package 1: 1734_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1735_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1736_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1737_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1738_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1739_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1740_3299,Must give us pause—there's the respect
+Sending package 1: 1741_3317,That makes calamity of so long life.
+Sending package 1: 1742_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1743_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1744_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1745_3639,The insolence of office, and the spurns
+Sending package 1: 1746_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1747_3612,When he himself might his quietus make
+Sending package 1: 1748_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1749_3495,To grunt and sweat under a weary life,
+Sending package 1: 1750_4078,But that the dread of something after death,
+Sending package 1: 1751_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1752_3769,No traveller returns, puzzles the will,
+Sending package 1: 1753_3981,And makes us rather bear those ills we have
+Sending package 1: 1754_3593,Than fly to others that we know not of?
+Sending package 1: 1755_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1756_3540,And thus the native hue of resolution
+Sending package 1: 1757_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1758_3825,And enterprises of great pith and moment
+Sending package 1: 1759_4017,With this regard their currents turn awry
+Sending package 1: 1760_2515,And lose the name of action.
+Sending package 1: 1761_3688,To be, or not to be, that is the question:
+Sending package 1: 1762_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1763_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1764_3788,Or to take arms against a sea of troubles
+Sending package 1: 1765_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1766_3232,No more; and by a sleep to say we end
+Sending package 1: 1767_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1768_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1769_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1770_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1771_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1772_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1773_3299,Must give us pause—there's the respect
+Sending package 1: 1774_3317,That makes calamity of so long life.
+Sending package 1: 1775_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1776_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1777_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1778_3639,The insolence of office, and the spurns
+Sending package 1: 1779_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1780_3612,When he himself might his quietus make
+Sending package 1: 1781_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1782_3495,To grunt and sweat under a weary life,
+Sending package 1: 1783_4078,But that the dread of something after death,
+Sending package 1: 1784_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1785_3769,No traveller returns, puzzles the will,
+Sending package 1: 1786_3981,And makes us rather bear those ills we have
+Sending package 1: 1787_3593,Than fly to others that we know not of?
+Sending package 1: 1788_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1789_3540,And thus the native hue of resolution
+Sending package 1: 1790_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1791_3825,And enterprises of great pith and moment
+Sending package 1: 1792_4017,With this regard their currents turn awry
+Sending package 1: 1793_2515,And lose the name of action.
+Sending package 1: 1794_3688,To be, or not to be, that is the question:
+Sending package 1: 1795_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1796_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1797_3788,Or to take arms against a sea of troubles
+Sending package 1: 1798_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1799_3232,No more; and by a sleep to say we end
+Sending package 1: 1800_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1801_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1802_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1803_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1804_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1805_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1806_3299,Must give us pause—there's the respect
+Sending package 1: 1807_3317,That makes calamity of so long life.
+Sending package 1: 1808_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1809_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1810_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1811_3639,The insolence of office, and the spurns
+Sending package 1: 1812_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1813_3612,When he himself might his quietus make
+Sending package 1: 1814_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1815_3495,To grunt and sweat under a weary life,
+Sending package 1: 1816_4078,But that the dread of something after death,
+Sending package 1: 1817_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1818_3769,No traveller returns, puzzles the will,
+Sending package 1: 1819_3981,And makes us rather bear those ills we have
+Sending package 1: 1820_3593,Than fly to others that we know not of?
+Sending package 1: 1821_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1822_3540,And thus the native hue of resolution
+Sending package 1: 1823_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1824_3825,And enterprises of great pith and moment
+Sending package 1: 1825_4017,With this regard their currents turn awry
+Sending package 1: 1826_2515,And lose the name of action.
+Sending package 1: 1827_3688,To be, or not to be, that is the question:
+Sending package 1: 1828_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1829_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1830_3788,Or to take arms against a sea of troubles
+Sending package 1: 1831_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1832_3232,No more; and by a sleep to say we end
+Sending package 1: 1833_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1834_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1835_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1836_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1837_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1838_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1839_3299,Must give us pause—there's the respect
+Sending package 1: 1840_3317,That makes calamity of so long life.
+Sending package 1: 1841_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1842_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1843_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1844_3639,The insolence of office, and the spurns
+Sending package 1: 1845_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1846_3612,When he himself might his quietus make
+Sending package 1: 1847_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1848_3495,To grunt and sweat under a weary life,
+Sending package 1: 1849_4078,But that the dread of something after death,
+Sending package 1: 1850_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1851_3769,No traveller returns, puzzles the will,
+Sending package 1: 1852_3981,And makes us rather bear those ills we have
+Sending package 1: 1853_3593,Than fly to others that we know not of?
+Sending package 1: 1854_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1855_3540,And thus the native hue of resolution
+Sending package 1: 1856_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1857_3825,And enterprises of great pith and moment
+Sending package 1: 1858_4017,With this regard their currents turn awry
+Sending package 1: 1859_2515,And lose the name of action.
+Sending package 1: 1860_3688,To be, or not to be, that is the question:
+Sending package 1: 1861_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1862_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1863_3788,Or to take arms against a sea of troubles
+Sending package 1: 1864_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1865_3232,No more; and by a sleep to say we end
+Sending package 1: 1866_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1867_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1868_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1869_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1870_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1871_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1872_3299,Must give us pause—there's the respect
+Sending package 1: 1873_3317,That makes calamity of so long life.
+Sending package 1: 1874_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1875_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1876_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1877_3639,The insolence of office, and the spurns
+Sending package 1: 1878_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1879_3612,When he himself might his quietus make
+Sending package 1: 1880_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1881_3495,To grunt and sweat under a weary life,
+Sending package 1: 1882_4078,But that the dread of something after death,
+Sending package 1: 1883_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1884_3769,No traveller returns, puzzles the will,
+Sending package 1: 1885_3981,And makes us rather bear those ills we have
+Sending package 1: 1886_3593,Than fly to others that we know not of?
+Sending package 1: 1887_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1888_3540,And thus the native hue of resolution
+Sending package 1: 1889_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1890_3825,And enterprises of great pith and moment
+Sending package 1: 1891_4017,With this regard their currents turn awry
+Sending package 1: 1892_2515,And lose the name of action.
+Sending package 1: 1893_10,
+Sending package 1: 1894_3688,To be, or not to be, that is the question:
+Sending package 1: 1895_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1896_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1897_3788,Or to take arms against a sea of troubles
+Sending package 1: 1898_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1899_3232,No more; and by a sleep to say we end
+Sending package 1: 1900_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1901_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1902_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1903_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1904_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1905_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1906_3299,Must give us pause—there's the respect
+Sending package 1: 1907_3317,That makes calamity of so long life.
+Sending package 1: 1908_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1909_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1910_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1911_3639,The insolence of office, and the spurns
+Sending package 1: 1912_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1913_3612,When he himself might his quietus make
+Sending package 1: 1914_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1915_3495,To grunt and sweat under a weary life,
+Sending package 1: 1916_4078,But that the dread of something after death,
+Sending package 1: 1917_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1918_3769,No traveller returns, puzzles the will,
+Sending package 1: 1919_3981,And makes us rather bear those ills we have
+Sending package 1: 1920_3593,Than fly to others that we know not of?
+Sending package 1: 1921_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1922_3540,And thus the native hue of resolution
+Sending package 1: 1923_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1924_3825,And enterprises of great pith and moment
+Sending package 1: 1925_4017,With this regard their currents turn awry
+Sending package 1: 1926_2515,And lose the name of action.
+Sending package 1: 1927_10,
+Sending package 1: 1928_10,
+Sending package 1: 1929_3688,To be, or not to be, that is the question:
+Sending package 1: 1930_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1931_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1932_3788,Or to take arms against a sea of troubles
+Sending package 1: 1933_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1934_3232,No more; and by a sleep to say we end
+Sending package 1: 1935_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1936_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1937_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1938_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1939_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1940_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1941_3299,Must give us pause—there's the respect
+Sending package 1: 1942_3317,That makes calamity of so long life.
+Sending package 1: 1943_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1944_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1945_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1946_3639,The insolence of office, and the spurns
+Sending package 1: 1947_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1948_3612,When he himself might his quietus make
+Sending package 1: 1949_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1950_3495,To grunt and sweat under a weary life,
+Sending package 1: 1951_4078,But that the dread of something after death,
+Sending package 1: 1952_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1953_3769,No traveller returns, puzzles the will,
+Sending package 1: 1954_3981,And makes us rather bear those ills we have
+Sending package 1: 1955_3593,Than fly to others that we know not of?
+Sending package 1: 1956_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1957_3540,And thus the native hue of resolution
+Sending package 1: 1958_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1959_3825,And enterprises of great pith and moment
+Sending package 1: 1960_4017,With this regard their currents turn awry
+Sending package 1: 1961_2515,And lose the name of action.
+Sending package 1: 1962_3688,To be, or not to be, that is the question:
+Sending package 1: 1963_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1964_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1965_3788,Or to take arms against a sea of troubles
+Sending package 1: 1966_3437,And by opposing end them. To die—to sleep,
+Sending package 1: 1967_3232,No more; and by a sleep to say we end
+Sending package 1: 1968_4377,The heart-ache and the thousand natural shocks
+Sending package 1: 1969_3875,That flesh is heir to: 'tis a consummation
+Sending package 1: 1970_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 1: 1971_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 1: 1972_4372,For in that sleep of death what dreams may come,
+Sending package 1: 1973_4002,When we have shuffled off this mortal coil,
+Sending package 1: 1974_3299,Must give us pause—there's the respect
+Sending package 1: 1975_3317,That makes calamity of so long life.
+Sending package 1: 1976_4427,For who would bear the whips and scorns of time,
+Sending package 1: 1977_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 1: 1978_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 1: 1979_3639,The insolence of office, and the spurns
+Sending package 1: 1980_3837,That patient merit of th'unworthy takes,
+Sending package 1: 1981_3612,When he himself might his quietus make
+Sending package 1: 1982_3895,With a bare bodkin? Who would fardels bear,
+Sending package 1: 1983_3495,To grunt and sweat under a weary life,
+Sending package 1: 1984_4078,But that the dread of something after death,
+Sending package 1: 1985_4157,The undiscovere'd country, from whose bourn
+Sending package 1: 1986_3769,No traveller returns, puzzles the will,
+Sending package 1: 1987_3981,And makes us rather bear those ills we have
+Sending package 1: 1988_3593,Than fly to others that we know not of?
+Sending package 1: 1989_4106,Thus conscience doth make cowards of us all,
+Sending package 1: 1990_3540,And thus the native hue of resolution
+Sending package 1: 1991_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 1: 1992_3825,And enterprises of great pith and moment
+Sending package 1: 1993_4017,With this regard their currents turn awry
+Sending package 1: 1994_2515,And lose the name of action.
+Sending package 1: 1995_3688,To be, or not to be, that is the question:
+Sending package 1: 1996_3816,Whether 'tis nobler in the mind to suffer
+Sending package 1: 1997_4254,The slings and arrows of outrageous fortune,
+Sending package 1: 1998_3788,Or to take arms against a sea of troubles
+Sending package 1: 1999_3437,And by opposing end them. To die—to sleep,
+Sending package 2: 2000_3232,No more; and by a sleep to say we end
+Sending package 2: 2001_4377,The heart-ache and the thousand natural shocks
+Sending package 2: 2002_3875,That flesh is heir to: 'tis a consummation
+Sending package 2: 2003_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 2: 2004_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 2: 2005_4372,For in that sleep of death what dreams may come,
+Sending package 2: 2006_4002,When we have shuffled off this mortal coil,
+Sending package 2: 2007_3299,Must give us pause—there's the respect
+Sending package 2: 2008_3317,That makes calamity of so long life.
+Sending package 2: 2009_4427,For who would bear the whips and scorns of time,
+Sending package 2: 2010_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 2: 2011_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 2: 2012_3639,The insolence of office, and the spurns
+Sending package 2: 2013_3837,That patient merit of th'unworthy takes,
+Sending package 2: 2014_3612,When he himself might his quietus make
+Sending package 2: 2015_3895,With a bare bodkin? Who would fardels bear,
+Sending package 2: 2016_3495,To grunt and sweat under a weary life,
+Sending package 2: 2017_4078,But that the dread of something after death,
+Sending package 2: 2018_4157,The undiscovere'd country, from whose bourn
+Sending package 2: 2019_3769,No traveller returns, puzzles the will,
+Sending package 2: 2020_3981,And makes us rather bear those ills we have
+Sending package 2: 2021_3593,Than fly to others that we know not of?
+Sending package 2: 2022_4106,Thus conscience doth make cowards of us all,
+Sending package 2: 2023_3540,And thus the native hue of resolution
+Sending package 2: 2024_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 2: 2025_3825,And enterprises of great pith and moment
+Sending package 2: 2026_4017,With this regard their currents turn awry
+Sending package 2: 2027_2515,And lose the name of action.
+Sending package 2: 2028_3688,To be, or not to be, that is the question:
+Sending package 2: 2029_3816,Whether 'tis nobler in the mind to suffer
+Sending package 2: 2030_4254,The slings and arrows of outrageous fortune,
+Sending package 2: 2031_3788,Or to take arms against a sea of troubles
+Sending package 2: 2032_3437,And by opposing end them. To die—to sleep,
+Sending package 2: 2033_3232,No more; and by a sleep to say we end
+Sending package 2: 2034_4377,The heart-ache and the thousand natural shocks
+Sending package 2: 2035_3875,That flesh is heir to: 'tis a consummation
+Sending package 2: 2036_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 2: 2037_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 2: 2038_4372,For in that sleep of death what dreams may come,
+Sending package 2: 2039_4002,When we have shuffled off this mortal coil,
+Sending package 2: 2040_3299,Must give us pause—there's the respect
+Sending package 2: 2041_3317,That makes calamity of so long life.
+Sending package 2: 2042_4427,For who would bear the whips and scorns of time,
+Sending package 2: 2043_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 2: 2044_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 2: 2045_3639,The insolence of office, and the spurns
+Sending package 2: 2046_3837,That patient merit of th'unworthy takes,
+Sending package 2: 2047_3612,When he himself might his quietus make
+Sending package 2: 2048_3895,With a bare bodkin? Who would fardels bear,
+Sending package 2: 2049_3495,To grunt and sweat under a weary life,
+Sending package 2: 2050_4078,But that the dread of something after death,
+Sending package 2: 2051_4157,The undiscovere'd country, from whose bourn
+Sending package 2: 2052_3769,No traveller returns, puzzles the will,
+Sending package 2: 2053_3981,And makes us rather bear those ills we have
+Sending package 2: 2054_3593,Than fly to others that we know not of?
+Sending package 2: 2055_4106,Thus conscience doth make cowards of us all,
+Sending package 2: 2056_3540,And thus the native hue of resolution
+Sending package 2: 2057_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 2: 2058_3825,And enterprises of great pith and moment
+Sending package 2: 2059_4017,With this regard their currents turn awry
+Sending package 2: 2060_2515,And lose the name of action.
+Sending package 2: 2061_3688,To be, or not to be, that is the question:
+Sending package 2: 2062_3816,Whether 'tis nobler in the mind to suffer
+Sending package 2: 2063_4254,The slings and arrows of outrageous fortune,
+Sending package 2: 2064_3788,Or to take arms against a sea of troubles
+Sending package 2: 2065_3437,And by opposing end them. To die—to sleep,
+Sending package 2: 2066_3232,No more; and by a sleep to say we end
+Sending package 2: 2067_4377,The heart-ache and the thousand natural shocks
+Sending package 2: 2068_3875,That flesh is heir to: 'tis a consummation
+Sending package 2: 2069_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 2: 2070_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 2: 2071_4372,For in that sleep of death what dreams may come,
+Sending package 2: 2072_4002,When we have shuffled off this mortal coil,
+Sending package 2: 2073_3299,Must give us pause—there's the respect
+Sending package 2: 2074_3317,That makes calamity of so long life.
+Sending package 2: 2075_4427,For who would bear the whips and scorns of time,
+Sending package 2: 2076_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 2: 2077_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 2: 2078_3639,The insolence of office, and the spurns
+Sending package 2: 2079_3837,That patient merit of th'unworthy takes,
+Sending package 2: 2080_3612,When he himself might his quietus make
+Sending package 2: 2081_3895,With a bare bodkin? Who would fardels bear,
+Sending package 2: 2082_3495,To grunt and sweat under a weary life,
+Sending package 2: 2083_4078,But that the dread of something after death,
+Sending package 2: 2084_4157,The undiscovere'd country, from whose bourn
+Sending package 2: 2085_3769,No traveller returns, puzzles the will,
+Sending package 2: 2086_3981,And makes us rather bear those ills we have
+Sending package 2: 2087_3593,Than fly to others that we know not of?
+Sending package 2: 2088_4106,Thus conscience doth make cowards of us all,
+Sending package 2: 2089_3540,And thus the native hue of resolution
+Sending package 2: 2090_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 2: 2091_3825,And enterprises of great pith and moment
+Sending package 2: 2092_4017,With this regard their currents turn awry
+Sending package 2: 2093_2515,And lose the name of action.
+Sending package 2: 2094_3688,To be, or not to be, that is the question:
+Sending package 2: 2095_3816,Whether 'tis nobler in the mind to suffer
+Sending package 2: 2096_4254,The slings and arrows of outrageous fortune,
+Sending package 2: 2097_3788,Or to take arms against a sea of troubles
+Sending package 2: 2098_3437,And by opposing end them. To die—to sleep,
+Sending package 2: 2099_3232,No more; and by a sleep to say we end
+Sending package 2: 2100_4377,The heart-ache and the thousand natural shocks
+Sending package 2: 2101_3875,That flesh is heir to: 'tis a consummation
+Sending package 2: 2102_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 2: 2103_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 2: 2104_4372,For in that sleep of death what dreams may come,
+Sending package 2: 2105_4002,When we have shuffled off this mortal coil,
+Sending package 2: 2106_3299,Must give us pause—there's the respect
+Sending package 2: 2107_3317,That makes calamity of so long life.
+Sending package 2: 2108_4427,For who would bear the whips and scorns of time,
+Sending package 2: 2109_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 2: 2110_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 2: 2111_3639,The insolence of office, and the spurns
+Sending package 2: 2112_3837,That patient merit of th'unworthy takes,
+Sending package 2: 2113_3612,When he himself might his quietus make
+Sending package 2: 2114_3895,With a bare bodkin? Who would fardels bear,
+Sending package 2: 2115_3495,To grunt and sweat under a weary life,
+Sending package 2: 2116_4078,But that the dread of something after death,
+Sending package 2: 2117_4157,The undiscovere'd country, from whose bourn
+Sending package 2: 2118_3769,No traveller returns, puzzles the will,
+Sending package 2: 2119_3981,And makes us rather bear those ills we have
+Sending package 2: 2120_3593,Than fly to others that we know not of?
+Sending package 2: 2121_4106,Thus conscience doth make cowards of us all,
+Sending package 2: 2122_3540,And thus the native hue of resolution
+Sending package 2: 2123_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 2: 2124_3825,And enterprises of great pith and moment
+Sending package 2: 2125_4017,With this regard their currents turn awry
+Sending package 2: 2126_2515,And lose the name of action.
+Sending package 2: 2127_3688,To be, or not to be, that is the question:
+Sending package 2: 2128_3816,Whether 'tis nobler in the mind to suffer
+Sending package 2: 2129_4254,The slings and arrows of outrageous fortune,
+Sending package 2: 2130_3788,Or to take arms against a sea of troubles
+Sending package 2: 2131_3437,And by opposing end them. To die—to sleep,
+Sending package 2: 2132_3232,No more; and by a sleep to say we end
+Sending package 2: 2133_4377,The heart-ache and the thousand natural shocks
+Sending package 2: 2134_3875,That flesh is heir to: 'tis a consummation
+Sending package 2: 2135_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 2: 2136_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 2: 2137_4372,For in that sleep of death what dreams may come,
+Sending package 2: 2138_4002,When we have shuffled off this mortal coil,
+Sending package 2: 2139_3299,Must give us pause—there's the respect
+Sending package 2: 2140_3317,That makes calamity of so long life.
+Sending package 2: 2141_4427,For who would bear the whips and scorns of time,
+Sending package 2: 2142_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 2: 2143_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 2: 2144_3639,The insolence of office, and the spurns
+Sending package 2: 2145_3837,That patient merit of th'unworthy takes,
+Sending package 2: 2146_3612,When he himself might his quietus make
+Sending package 2: 2147_3895,With a bare bodkin? Who would fardels bear,
+Sending package 2: 2148_3495,To grunt and sweat under a weary life,
+Sending package 2: 2149_4078,But that the dread of something after death,
+Sending package 2: 2150_4157,The undiscovere'd country, from whose bourn
+Sending package 2: 2151_3769,No traveller returns, puzzles the will,
+Sending package 2: 2152_3981,And makes us rather bear those ills we have
+Sending package 2: 2153_3593,Than fly to others that we know not of?
+Sending package 2: 2154_4106,Thus conscience doth make cowards of us all,
+Sending package 2: 2155_3540,And thus the native hue of resolution
+Sending package 2: 2156_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 2: 2157_3825,And enterprises of great pith and moment
+Sending package 2: 2158_4017,With this regard their currents turn awry
+Sending package 2: 2159_2515,And lose the name of action.
+Sending package 2: 2160_3688,To be, or not to be, that is the question:
+Sending package 2: 2161_3816,Whether 'tis nobler in the mind to suffer
+Sending package 2: 2162_4254,The slings and arrows of outrageous fortune,
+Sending package 2: 2163_3788,Or to take arms against a sea of troubles
+Sending package 2: 2164_3437,And by opposing end them. To die—to sleep,
+Sending package 2: 2165_3232,No more; and by a sleep to say we end
+Sending package 2: 2166_4377,The heart-ache and the thousand natural shocks
+Sending package 2: 2167_3875,That flesh is heir to: 'tis a consummation
+Sending package 2: 2168_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 2: 2169_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 2: 2170_4372,For in that sleep of death what dreams may come,
+Sending package 2: 2171_4002,When we have shuffled off this mortal coil,
+Sending package 2: 2172_3299,Must give us pause—there's the respect
+Sending package 2: 2173_3317,That makes calamity of so long life.
+Sending package 2: 2174_4427,For who would bear the whips and scorns of time,
+Sending package 2: 2175_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 2: 2176_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 2: 2177_3639,The insolence of office, and the spurns
+Sending package 2: 2178_3837,That patient merit of th'unworthy takes,
+Sending package 2: 2179_3612,When he himself might his quietus make
+Sending package 2: 2180_3895,With a bare bodkin? Who would fardels bear,
+Sending package 2: 2181_3495,To grunt and sweat under a weary life,
+Sending package 2: 2182_4078,But that the dread of something after death,
+Sending package 2: 2183_4157,The undiscovere'd country, from whose bourn
+Sending package 2: 2184_3769,No traveller returns, puzzles the will,
+Sending package 2: 2185_3981,And makes us rather bear those ills we have
+Sending package 2: 2186_3593,Than fly to others that we know not of?
+Sending package 2: 2187_4106,Thus conscience doth make cowards of us all,
+Sending package 2: 2188_3540,And thus the native hue of resolution
+Sending package 2: 2189_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 2: 2190_3825,And enterprises of great pith and moment
+Sending package 2: 2191_4017,With this regard their currents turn awry
+Sending package 2: 2192_2515,And lose the name of action.
+Sending package 2: 2193_3688,To be, or not to be, that is the question:
+Sending package 2: 2194_3816,Whether 'tis nobler in the mind to suffer
+Sending package 2: 2195_4254,The slings and arrows of outrageous fortune,
+Sending package 2: 2196_3788,Or to take arms against a sea of troubles
+Sending package 2: 2197_3437,And by opposing end them. To die—to sleep,
+Sending package 2: 2198_3232,No more; and by a sleep to say we end
+Sending package 2: 2199_4377,The heart-ache and the thousand natural shocks
+Sending package 2: 2200_3875,That flesh is heir to: 'tis a consummation
+Sending package 2: 2201_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 2: 2202_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 2: 2203_4372,For in that sleep of death what dreams may come,
+Sending package 2: 2204_4002,When we have shuffled off this mortal coil,
+Sending package 2: 2205_3299,Must give us pause—there's the respect
+Sending package 2: 2206_3317,That makes calamity of so long life.
+Sending package 2: 2207_4427,For who would bear the whips and scorns of time,
+Sending package 2: 2208_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 2: 2209_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 2: 2210_3639,The insolence of office, and the spurns
+Sending package 2: 2211_3837,That patient merit of th'unworthy takes,
+Sending package 2: 2212_3612,When he himself might his quietus make
+Sending package 2: 2213_3895,With a bare bodkin? Who would fardels bear,
+Sending package 2: 2214_3495,To grunt and sweat under a weary life,
+Sending package 2: 2215_4078,But that the dread of something after death,
+Sending package 2: 2216_4157,The undiscovere'd country, from whose bourn
+Sending package 2: 2217_3769,No traveller returns, puzzles the will,
+Sending package 2: 2218_3981,And makes us rather bear those ills we have
+Sending package 2: 2219_3593,Than fly to others that we know not of?
+Sending package 2: 2220_4106,Thus conscience doth make cowards of us all,
+Sending package 2: 2221_3540,And thus the native hue of resolution
+Sending package 2: 2222_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 2: 2223_3825,And enterprises of great pith and moment
+Sending package 2: 2224_4017,With this regard their currents turn awry
+Sending package 2: 2225_2515,And lose the name of action.
+Sending package 2: 2226_3688,To be, or not to be, that is the question:
+Sending package 2: 2227_3816,Whether 'tis nobler in the mind to suffer
+Sending package 2: 2228_4254,The slings and arrows of outrageous fortune,
+Sending package 2: 2229_3788,Or to take arms against a sea of troubles
+Sending package 2: 2230_3437,And by opposing end them. To die—to sleep,
+Sending package 2: 2231_3232,No more; and by a sleep to say we end
+Sending package 2: 2232_4377,The heart-ache and the thousand natural shocks
+Sending package 2: 2233_3875,That flesh is heir to: 'tis a consummation
+Sending package 2: 2234_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 2: 2235_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 2: 2236_4372,For in that sleep of death what dreams may come,
+Sending package 2: 2237_4002,When we have shuffled off this mortal coil,
+Sending package 2: 2238_3299,Must give us pause—there's the respect
+Sending package 2: 2239_3317,That makes calamity of so long life.
+Sending package 2: 2240_4427,For who would bear the whips and scorns of time,
+Sending package 2: 2241_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 2: 2242_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 2: 2243_3639,The insolence of office, and the spurns
+Sending package 2: 2244_3837,That patient merit of th'unworthy takes,
+Sending package 2: 2245_3612,When he himself might his quietus make
+Sending package 2: 2246_3895,With a bare bodkin? Who would fardels bear,
+Sending package 2: 2247_3495,To grunt and sweat under a weary life,
+Sending package 2: 2248_4078,But that the dread of something after death,
+Sending package 2: 2249_4157,The undiscovere'd country, from whose bourn
+Sending package 2: 2250_3769,No traveller returns, puzzles the will,
+Sending package 2: 2251_3981,And makes us rather bear those ills we have
+Sending package 2: 2252_3593,Than fly to others that we know not of?
+Sending package 2: 2253_4106,Thus conscience doth make cowards of us all,
+Sending package 2: 2254_3540,And thus the native hue of resolution
+Sending package 2: 2255_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 2: 2256_3825,And enterprises of great pith and moment
+Sending package 2: 2257_4017,With this regard their currents turn awry
+Sending package 2: 2258_2515,And lose the name of action.
+Sending package 2: 2259_3688,To be, or not to be, that is the question:
+Sending package 2: 2260_3816,Whether 'tis nobler in the mind to suffer
+Sending package 2: 2261_4254,The slings and arrows of outrageous fortune,
+Sending package 2: 2262_3788,Or to take arms against a sea of troubles
+Sending package 2: 2263_3437,And by opposing end them. To die—to sleep,
+Sending package 2: 2264_3232,No more; and by a sleep to say we end
+Sending package 2: 2265_4377,The heart-ache and the thousand natural shocks
+Sending package 2: 2266_3875,That flesh is heir to: 'tis a consummation
+Sending package 2: 2267_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 2: 2268_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 2: 2269_4372,For in that sleep of death what dreams may come,
+Sending package 2: 2270_4002,When we have shuffled off this mortal coil,
+Sending package 2: 2271_3299,Must give us pause—there's the respect
+Sending package 2: 2272_3317,That makes calamity of so long life.
+Sending package 2: 2273_4427,For who would bear the whips and scorns of time,
+Sending package 2: 2274_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 2: 2275_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 2: 2276_3639,The insolence of office, and the spurns
+Sending package 2: 2277_3837,That patient merit of th'unworthy takes,
+Sending package 2: 2278_3612,When he himself might his quietus make
+Sending package 2: 2279_3895,With a bare bodkin? Who would fardels bear,
+Sending package 2: 2280_3495,To grunt and sweat under a weary life,
+Sending package 2: 2281_4078,But that the dread of something after death,
+Sending package 2: 2282_4157,The undiscovere'd country, from whose bourn
+Sending package 2: 2283_3769,No traveller returns, puzzles the will,
+Sending package 2: 2284_3981,And makes us rather bear those ills we have
+Sending package 2: 2285_3593,Than fly to others that we know not of?
+Sending package 2: 2286_4106,Thus conscience doth make cowards of us all,
+Sending package 2: 2287_3540,And thus the native hue of resolution
+Sending package 2: 2288_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 2: 2289_3825,And enterprises of great pith and moment
+Sending package 2: 2290_4017,With this regard their currents turn awry
+Sending package 2: 2291_2515,And lose the name of action.
+Sending package 2: 2292_3688,To be, or not to be, that is the question:
+Sending package 2: 2293_3816,Whether 'tis nobler in the mind to suffer
+Sending package 2: 2294_4254,The slings and arrows of outrageous fortune,
+Sending package 2: 2295_3788,Or to take arms against a sea of troubles
+Sending package 2: 2296_3437,And by opposing end them. To die—to sleep,
+Sending package 2: 2297_3232,No more; and by a sleep to say we end
+Sending package 2: 2298_4377,The heart-ache and the thousand natural shocks
+Sending package 2: 2299_3875,That flesh is heir to: 'tis a consummation
+Sending package 2: 2300_3516,Devoutly to be wish'd. To die, to sleep;
+Sending package 2: 2301_4089,To sleep, perchance to dream—ay, there's the rub:
+Sending package 2: 2302_4372,For in that sleep of death what dreams may come,
+Sending package 2: 2303_4002,When we have shuffled off this mortal coil,
+Sending package 2: 2304_3299,Must give us pause—there's the respect
+Sending package 2: 2305_3317,That makes calamity of so long life.
+Sending package 2: 2306_4427,For who would bear the whips and scorns of time,
+Sending package 2: 2307_4538,Th'oppressor's wrong, the proud man's contumely,
+Sending package 2: 2308_4037,The pangs of dispriz'd love, the law's delay,
+Sending package 2: 2309_3639,The insolence of office, and the spurns
+Sending package 2: 2310_3837,That patient merit of th'unworthy takes,
+Sending package 2: 2311_3612,When he himself might his quietus make
+Sending package 2: 2312_3895,With a bare bodkin? Who would fardels bear,
+Sending package 2: 2313_3495,To grunt and sweat under a weary life,
+Sending package 2: 2314_4078,But that the dread of something after death,
+Sending package 2: 2315_4157,The undiscovere'd country, from whose bourn
+Sending package 2: 2316_3769,No traveller returns, puzzles the will,
+Sending package 2: 2317_3981,And makes us rather bear those ills we have
+Sending package 2: 2318_3593,Than fly to others that we know not of?
+Sending package 2: 2319_4106,Thus conscience doth make cowards of us all,
+Sending package 2: 2320_3540,And thus the native hue of resolution
+Sending package 2: 2321_4297,Is sicklied o'er with the pale cast of thought,
+Sending package 2: 2322_3825,And enterprises of great pith and moment
+Sending package 2: 2323_4017,With this regard their currents turn awry
+Sending package 2: 2324_2505,And lose the name of action.[1m[7m%[27m[1m[0m                                                                                                                                                                                          [0m[27m[24m[Jconnorsanders@Connors-MacBook-Pro-2 Networks Project % [K[?2004heexit[?2004l
+
+Script done on Thu Nov  3 16:01:52 2022
